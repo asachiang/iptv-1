@@ -8,7 +8,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp",[BD] B4U Movies APAC
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a535fd3aae1f5dc79e9afa561cf28983" group-title="Channels",Movie Bangla
-https://tvsen7.aynascope.net/moviebangla/index.m3u8?e=1769098968&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fc2f6754f1545b3f6a4c342240fda087
+https://tvsen7.aynascope.net/moviebangla/index.m3u8?e=1769106118&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f00c2afdcee437de5216dc263bdc72a8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a23f256ae7f1322fc7a6ab663410064b" group-title="Channels",Hallmark Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4d343b446b1e7164bb7239bbe822a570" group-title="Channels",MovieSphere
@@ -16,88 +16,92 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/cb1ab052f5b733bbf600a7a8e3a1164b" group-title="Channels",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a6d7d9729aafd5055bfd5356b6fa8eef" group-title="English",SKY CINEMA ANIMATION
-https://tvsen7.aynascope.net/skycinemanimation/index.m3u8?e=1769099008&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=19ac9d9bacbed6e8dce2600e6207b9bb
+https://tvsen7.aynascope.net/skycinemanimation/index.m3u8?e=1769106162&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4fd3d4a905691c815e05f7252587c937
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="English",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5088d0894a79b329031d5f4669bbb0fe" group-title="Hindi",B4U Movies India
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f8d9220406fa9ae79006914639f52e9b" group-title="Hindi",Goldmines Movies
-https://tvsen6.aynascope.net/GoldminesMovies/index.m3u8?e=1769099023&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f9390de0a5079f1dc5d85a136090158b
+https://tvsen6.aynascope.net/GoldminesMovies/index.m3u8?e=1769106179&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bdc11f6730a698ab28bdf620b5c5ec16
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/62a667c60e95b0d8e0a0c4d70275a7fc" group-title="Hindi",Manoranjan Movies
-https://tvsen6.aynascope.net/ManoranjanMovies/index.m3u8?e=1769099031&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3466df1ef8b44b3c9bc97a3d1357c7c4
+https://tvsen6.aynascope.net/ManoranjanMovies/index.m3u8?e=1769106188&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0de4fea0e747b3b0ce44f85f62ea238d
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d63eff8864579b144c097c549ec0470a" group-title="Hindi",Dhamaka Movies
-https://tvsen7.aynascope.net/DhamakaMovies/index.m3u8?e=1769099039&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f9cee3bae4340c601befe5107abe50fa
+https://tvsen7.aynascope.net/DhamakaMovies/index.m3u8?e=1769106197&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ab69df0a305ba605b0d1cfaa9b5eae73
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Hindi",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/7fc825467116fd9653dc0495c0532e01" group-title="Indian Bangla",Zee Bangla Cinema
-https://tvsen6.aynascope.net/ZeeBanglaCinema/index.m3u8?e=1769099055&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aee393385897be367420d713482799a2
+https://tvsen6.aynascope.net/ZeeBanglaCinema/index.m3u8?e=1769106214&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d04b0c47325d0e2e15fc720ebd2ddf42
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f24e50516ccf6b3e94a4ca749ccb3533" group-title="Movie",Persiana Kore
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/76.png" group-title="hindi",zee cinema
-https://edge2.roarzone.info:8444/roarzone/bk/76/index.m3u8?token=1697a19f274aa801e9a4cf2570567a8de1ae7458-05f278052124d7945e3bf788450b30c4-1769100820-1769097220
+https://edge2.roarzone.info:8444/roarzone/bk/76/index.m3u8?token=53949626e380387cd47070cbf0601dc4db3b856b-415963cce077cbf423d86afa65e4fe40-1769103812-1769100212
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/b4umovies.png" group-title="hindi",b4u movies
-https://edge2.roarzone.info:8444/roarzone/toffee/b4u_movies/index.m3u8?token=daa2f558320c7e06de62c239c33e4a319985a4a5-cb45fdc858c6be9091be73a70a934cdf-1769100820-1769097220
+https://edge2.roarzone.info:8444/roarzone/toffee/b4u_movies/index.m3u8?token=f8c750c16c8d8ca11833aa09c9f26c0ecf00d451-d46892ad1ad4f721e34856ba1b3b215c-1769103812-1769100212
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/starmovies.png" group-title="english",star movies
-https://edge2.roarzone.info:8444/roarzone/bk/starmovies/index.m3u8?token=3b3a9b54998d427263fc195963e18a7c35f258c9-fb84bd7b9b19a559a6ec8ca9e90b6b25-1769100820-1769097220
+https://edge2.roarzone.info:8444/roarzone/bk/starmovies/index.m3u8?token=612c94097a6cd7c99d56e829f262072677b8a775-c433d6984a4787e80a61b0fd39a7fafc-1769103812-1769100212
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/86.png" group-title="bangla",movie bangla tv
-https://edge2.roarzone.info:8444/roarzone/bk/86/index.m3u8?token=be30a675b5abfa32176bad47747197a57b2ffe4f-090521e10ee6fcd4e0171914e92425b0-1769100820-1769097220
-#EXTINF:-1 tvg-name="Kolkata Movies" group-title="Bangladeshi ",Kolkata Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+https://edge2.roarzone.info:8444/roarzone/bk/86/index.m3u8?token=d2d617e42066ed3aa0b5366e6e237e48fcee9e94-395cd9f8b97b723243bcf3bdaf67b615-1769103812-1769100212
 #EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-name="Kolkata Movies" group-title="Bangladeshi ",Kolkata Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi Movies",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
-#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="English Movies",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-name="Movies Thriller" group-title="Unknown",Movies Thriller
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi",B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
-#EXTINF:-1 tvg-name="KIX" group-title="English Movie",KIX
-http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1 tvg-name="My Cinema" group-title="English Movie",My Cinema
-https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="BhojpuriCinema" group-title="India",BhojpuriCinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="ZEE CINEMA" group-title="Unknown",ZEE CINEMA
-https://ultrashort.info/weOxC6
 #EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="English Movies",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi",B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
+#EXTINF:-1 tvg-name="My Cinema" group-title="English Movie",My Cinema
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="KIX" group-title="English Movie",KIX
+http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 tvg-name="Movies Thriller" group-title="Unknown",Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-name="ZB Cinema" group-title="Indian-Bangla",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="ZEE CINEMA" group-title="Unknown",ZEE CINEMA
+https://ultrashort.info/weOxC6
+#EXTINF:-1 tvg-name="BhojpuriCinema" group-title="India",BhojpuriCinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi | 24/7",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="South Movies" group-title="Hindi | 24/7",South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="CricHD 1",Sky Cinema
-https://d9.merichunidya.com:1686/hls/skysme.m3u8?md5=UovGXn6pcjAw0s99um7vGg&expires=1769106960
+https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=9dcBLD8KXDLyMcP9IRV_yg&expires=1769111732
 #EXTINF:-1 tvg-id="ION_Plus" tvg-logo="https://img.platform.wurl.dev/channel/378/lg/165a68/LG-400x225_v1.png" group-title="TV & Movies",ION Plus
 https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSPLGUS/resized_f5bc9b75c16079cc1a0f42cec924311b96a5352c2c9bb262338266917b0a67f8_9382843landscapejpg_400_225.png" group-title="TV & Movies",MovieSphere
+#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSPLGUS/resized_8d94499e51930892cd8ed3da179682b7c84aae8b3f64ffb94d937e325e667a27_1620601landscapejpg_400_225.png" group-title="TV & Movies",MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphere-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRise_Free_Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0RSAOGH09JNW/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F400x225.jpg%3Ftype%3DchannelTile" group-title="TV & Movies",FilmRise Free Movies
+#EXTINF:-1 tvg-id="FilmRise_Free_Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM057BIENKQBHT/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992272%2F400x225.jpg%3Ftype%3DchannelTile" group-title="TV & Movies",FilmRise Free Movies
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="Free_Movies_Plus" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG02042C1ENG/resized_f5e0cfe880963b90362d16b57160e9265148e884eb3cca59fb9f0f0e78439b13_fmp109760png_400_225.png" group-title="TV & Movies",Free Movies Plus
+#EXTINF:-1 tvg-id="Free_Movies_Plus" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG02042C1ENG/resized_96b10c9af1fc839f2f61d46f64f8436802eee33a652b1339c0be9ebc9d613d99_fmp21150png_400_225.png" group-title="TV & Movies",Free Movies Plus
 https://amg02042-ottstudio-amg02042c1-lg-us-833.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="CINEVAULT" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/691-LG-400x225_v2.png" group-title="TV & Movies",CINEVAULT
 https://wurlgameshownetwork.global.transmit.live/hls/68d16f229e868efab9c34b16/v1/gsn_cinevault_80s_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CINEVAULT:_Classics" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1043-LG-400x225_v2.jpg" group-title="TV & Movies",CINEVAULT: Classics
 https://wurlgameshownetwork.global.transmit.live/hls/68d16fc891b992ec0d46bfe0/v1/gsn_cinevault_classics_2/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Shout!_Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/STMVS/resized_fe4a5fd76a02c2571a65d557304c30a70716beffb4665a12f31ec8e256afb222_gracenotevillainsnologo1920x1080jpg_400_225.png" group-title="TV & Movies",Shout! Movies
+#EXTINF:-1 tvg-id="Shout!_Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/STMVS/resized_c0015914c84cf647443a56be5ed1a7ed1494eb55918154b36d897db283189771_tiemeuptiemedown1920x1080jpg_400_225.png" group-title="TV & Movies",Shout! Movies
 https://amg00163-amg00163c15-lg-us-7501.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutmovies-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="The_Beverly_Hillbillies" tvg-logo="https://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-400x225_v1.png" group-title="TV & Movies",The Beverly Hillbillies
 https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8
-#EXTINF:-1 tvg-id="Xumo_Free_Action_Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM07MUWV3C20LJ/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992285%2F400x225.jpg%3Ftype%3DchannelTile" group-title="TV & Movies",Xumo Free Action Movies
+#EXTINF:-1 tvg-id="50_Cent_Action" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/ACTION/resized_3ba425b5df63d26efd9aac0ff3d46f477797bf8918d53bd7a39ed8c0f39f19de_2550180landscapejpg_400_225.png" group-title="TV & Movies",50 Cent Action
+https://amg00353-amg00353c49-lg-us-7640.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-50centaction-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Xumo_Free_Action_Movies" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0S0ZHQ26XBPJ/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992285%2F400x225.jpg%3Ftype%3DchannelTile" group-title="TV & Movies",Xumo Free Action Movies
 https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="Hi-Yah!" tvg-logo="https://image.xumo.com/v1/assets/asset/MV009272670000/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992284%2F400x225.jpg%3Ftype%3DchannelTile" group-title="TV & Movies",Hi-Yah!
+#EXTINF:-1 tvg-id="Hi-Yah!" tvg-logo="https://image.xumo.com/v1/assets/asset/MV003240820000/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992284%2F400x225.jpg%3Ftype%3DchannelTile" group-title="TV & Movies",Hi-Yah!
 https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="AllBlk_Gems" tvg-logo="https://img.platform.wurl.dev/channel/1180/lg/f13d7e/LG-960x540_v1.png" group-title="TV & Movies",AllBlk Gems
 https://wurlrainbowmedia.global.transmit.live/hls/68c49711192b2a4e99da1da0/v1/amc_allblk_gems_1/lg_us/latest/main/hls/playlist.m3u8
@@ -115,9 +119,9 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d173430531b397b61a7794/v1
 https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cinedigm_entertainment_corp_lonestar_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Degrassi" tvg-logo="https://img.platform.wurl.dev/channel/715/lg/50c09d/LG-400x225_v1.png" group-title="TV & Movies",Degrassi
 https://wurldhxmedia.global.transmit.live/hls/68cdaf0debffa02805c6b132/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTime_Movie_Network" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MYTIMEA/resized_e90c91fb02fa76e048fe6e933fc021277b141a7f7e0002fe69a697a9f4ed360a_aroyalmakeoverfeatureengjpg_400_225.png" group-title="TV & Movies",MyTime Movie Network
+#EXTINF:-1 tvg-id="MyTime_Movie_Network" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MYTIMEA/resized_7072298049542d75aff953f162ee93cc3a90ffe969327e1121964482c8d51267_heartofthemanorfeatureengjpg_400_225.png" group-title="TV & Movies",MyTime Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Alien_Nation_by_DUST" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7313260404271949962/solid/rectangle/w1920_h1080/uyuqqx87ze2s1gsvyavlusg0p.jpg" group-title="TV & Movies",Alien Nation by DUST
+#EXTINF:-1 tvg-id="Alien_Nation_by_DUST" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7386399543672876355/solid/rectangle/w1920_h1080/1hbt3hkcslscg1taq7p2bbags0.jpg" group-title="TV & Movies",Alien Nation by DUST
 https://linear-888.frequency.stream/dist/lg-us/888/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/MovieSphere_Intl_LGLaunch_Guide_Logo_Color_800x200.png" group-title="LGTV AU",304 Moviesphere AUS
 https://amg00353-amg00353c26-lg-au-3435.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphereaus-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
@@ -197,6 +201,8 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999304
 https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East
 https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d23edfjfpc1xrv.cloudfront.net/MyTime_Logo_300x200.png" group-title="LGTV USA",324 MyTime Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d-us" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-chno="" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="United States",24 Hour Free Movies
@@ -810,35 +816,35 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD",Persiana Cinema
 https://todayhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="52" tvg-chno="256" tvg-name="cowboy-movie-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cowboy-movie-channel.png" group-title="Movies", Cowboy Movie Channel
-https://streams2.sofast.tv/ptnr-yupptv/title-COWBOY-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/manifest.m3u8?hdnts=st%3D1769100472~exp%3D1769122072~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-COWBOY-MOVIE-CHANNEL-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F4434fd47-6d46-43e9-b132-fab122edc732%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_52_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_52_-1~hmac%3D65688aae1ce73ba4f0d89cbe756d200589e16023f5bff1589e8a6b945a867ffa
+https://streams2.sofast.tv/ptnr-yupptv/title-COWBOY-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/manifest.m3u8?hdnts=st%3D1769104706~exp%3D1769126306~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-COWBOY-MOVIE-CHANNEL-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F4434fd47-6d46-43e9-b132-fab122edc732%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_52_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_52_-1~hmac%3Daca4a08abb57a6c2b9388463fd586271d4eb61b04a32f5fad5e1a7076edfaa66
 #EXTINF:-1 tvg-id="77" tvg-chno="257" tvg-name="horror-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/horror-tv.png" group-title="Movies", Horror TV
-https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?hdnts=st%3D1769100473~exp%3D1769122073~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-HORROR-TV-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F93dc292b-cbcf-4988-ab97-94feced4c14b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_77_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_77_-1~hmac%3D1dccc1db333e3623f43abb217842092129cc3a2401f7027f2faf890e25e16600
+https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?hdnts=st%3D1769104706~exp%3D1769126306~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-HORROR-TV-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F93dc292b-cbcf-4988-ab97-94feced4c14b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_77_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_77_-1~hmac%3D8ce9f179842182536a0e17032fd2053de7804dc8bae0f49137fc1410793b550e
 #EXTINF:-1 tvg-id="72" tvg-chno="258" tvg-name="tensions-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tensions-tv.png" group-title="Movies", Tensions TV
-https://streams2.sofast.tv/ptnr-yupptv/title-TENSIONS-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8?hdnts=st%3D1769100473~exp%3D1769122073~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-TENSIONS-TV-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9db01cea-0af6-4382-b2c6-e23525f6640d%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_72_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_72_-1~hmac%3D0ce7b3a45b88089bde5f977dffbcf9785d0fb95855cabef8ff8c1a6d55c56c2f
+https://streams2.sofast.tv/ptnr-yupptv/title-TENSIONS-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8?hdnts=st%3D1769104706~exp%3D1769126306~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-TENSIONS-TV-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9db01cea-0af6-4382-b2c6-e23525f6640d%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_72_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_72_-1~hmac%3D1f4738fdddad11b4446830c26a10442872a347bfaf508d5eece7af82f7a7aa8c
 #EXTINF:-1 tvg-id="55" tvg-chno="259" tvg-name="drive-in-movie-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png" group-title="Movies", Drive In Movie Channel
-https://streams2.sofast.tv/ptnr-yupptv/title-DRIVE-IN-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8?hdnts=st%3D1769100474~exp%3D1769122074~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-DRIVE-IN-MOVIE-CHANNEL-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe5056383-20ac-488f-b299-6577f66881ff%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_55_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_55_-1~hmac%3D9eab1b0feadebf2e86bfd7f4ac9b4f898af095e86bf9624c1a5b93b9bba3a146
+https://streams2.sofast.tv/ptnr-yupptv/title-DRIVE-IN-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8?hdnts=st%3D1769104707~exp%3D1769126307~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-DRIVE-IN-MOVIE-CHANNEL-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe5056383-20ac-488f-b299-6577f66881ff%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_55_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_55_-1~hmac%3Df6fc247cd7e2aa30dbf5f34966171178110b9b1d34e5c90bc84e4066c582a06b
 #EXTINF:-1 tvg-id="57" tvg-chno="260" tvg-name="weshort" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/weshort.png" group-title="Movies", Weshort
-https://streams2.sofast.tv/ptnr-yupptv/title-WESHORT-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8?hdnts=st%3D1769100474~exp%3D1769122074~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-WESHORT-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fea019bed-a45e-4dfe-a452-84f5f2f76ea9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_57_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_57_-1~hmac%3De65f0b479cc1ef96f0a547dc8d943f464ce7da72edd5a4d135bc4523829c6e2c
+https://streams2.sofast.tv/ptnr-yupptv/title-WESHORT-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8?hdnts=st%3D1769104707~exp%3D1769126307~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-WESHORT-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fea019bed-a45e-4dfe-a452-84f5f2f76ea9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_57_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_57_-1~hmac%3Db70aad56d2990ed3f0119ab77ddc852dea83a68b8a5229a0796552b711094a04
 #EXTINF:-1 tvg-id="85" tvg-chno="261" tvg-name="kung-fu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png" group-title="Movies", Kung Fu
-https://streams2.sofast.tv/ptnr-yupptv/title-KUNG-FU-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8?hdnts=st%3D1769100474~exp%3D1769122074~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KUNG-FU-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F06862a07-6a92-4b4d-abc3-5fea131713b5%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_85_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_85_-1~hmac%3Dd1edb96300a8b659200cf1ad2b92ba528e8185aca3025a1ece8cfa965b905bc9
+https://streams2.sofast.tv/ptnr-yupptv/title-KUNG-FU-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8?hdnts=st%3D1769104707~exp%3D1769126307~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KUNG-FU-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F06862a07-6a92-4b4d-abc3-5fea131713b5%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_85_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_85_-1~hmac%3Da302929a5e54d02142a0d7ca4575f2aff4322826bb745f083f44156414cefe6f
 #EXTINF:-1 tvg-id="256" tvg-chno="308" tvg-name="best-action-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png" group-title="Movies", BEST ACTION TV
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8?hdnts=st%3D1769100475~exp%3D1769122075~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_ACTION_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9a4a5412-ca99-48d3-9013-d1811b95b9d2%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_256_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_256_-1~hmac%3Dbd9c9991d54247b7fc4b6a214508b67142c91e9768ecd2eaf5eac39e6f88f731
+https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8?hdnts=st%3D1769104708~exp%3D1769126308~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_ACTION_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9a4a5412-ca99-48d3-9013-d1811b95b9d2%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_256_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_256_-1~hmac%3D1d572f3270d5d7b1bec0379c67020e2fe0b7a892319fbeb75795f915a3c5238d
 #EXTINF:-1 tvg-id="257" tvg-chno="309" tvg-name="best-drama-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vuyumm.png" group-title="Movies",   BEST DRAMA TV  
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8?hdnts=st%3D1769100475~exp%3D1769122075~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_DRAMA_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9800ea5c-2183-4160-9f01-70e5d6428a50%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_257_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_257_-1~hmac%3De2532912fef693347345ac5024e7aaea26852d72ea820e516887f90162b4034f
+https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8?hdnts=st%3D1769104708~exp%3D1769126308~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_DRAMA_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F9800ea5c-2183-4160-9f01-70e5d6428a50%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_257_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_257_-1~hmac%3D5204b0d7744d9aa8a5ba0bc8c979d5ac8a893f00fa23284b91e85fb297e21945
 #EXTINF:-1 tvg-id="258" tvg-chno="310" tvg-name="best-thriller-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewehpt.png" group-title="Movies", BEST THRILLER TV
-https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8?hdnts=st%3D1769100475~exp%3D1769122075~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_THRILLER_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fce168a85-c8d4-41d6-a597-cc8fd7baddd9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_258_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_258_-1~hmac%3D545aab98d1bc1b51c71990481dd6bc211a353bf3457a2621b99da1f0b2eb1f94
+https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8?hdnts=st%3D1769104708~exp%3D1769126308~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-BEST_THRILLER_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fce168a85-c8d4-41d6-a597-cc8fd7baddd9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_258_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_258_-1~hmac%3D7c88b60ca40490905036081205450473dfbe6545234201637f0a982611c0e60b
 #EXTINF:-1 tvg-id="318" tvg-chno="" tvg-name="pocket-films" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pocket-films.png" group-title="Movies", Pocket Films
-https://vglivessai.akamaized.net/ptnr-yupptv/title-Pocket_Films/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8?hdnts=st%3D1769100476~exp%3D1769122076~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Pocket_Films%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb8ada260-bb81-472b-b7c1-3a79213a84b8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_318_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_318_-1~hmac%3Da970e0807b2ac020982f9036a72d521997ccbc36824825428e6d2c80154d61d6
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Pocket_Films/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8?hdnts=st%3D1769104708~exp%3D1769126308~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Pocket_Films%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb8ada260-bb81-472b-b7c1-3a79213a84b8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_318_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_318_-1~hmac%3Dc35c4ba035ac36963ebc67edec3953d9a30af1c90ad2962beada7f65c864f430
 #EXTINF:-1 tvg-id="92" tvg-chno="429" tvg-name="tolly-tv1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png" group-title="Movies", Tolly TV
-https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8?hdnts=st%3D1769100476~exp%3D1769122076~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-TOLLY-TV-TEL_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F13b5735d-52c3-4be0-853d-e0ec0127e708%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_92_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_92_-1~hmac%3D6610804b12b7a304d81040b3a9bdf25aff3fde547a2c3f61b042f20fc982d4c0
+https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8?hdnts=st%3D1769104709~exp%3D1769126309~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-TOLLY-TV-TEL_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F13b5735d-52c3-4be0-853d-e0ec0127e708%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_92_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_92_-1~hmac%3Dc0309079fa6a9831eaf079da4e28d9b44d872bd06f1275eabb3fbdda386c6ca9
 #EXTINF:-1 tvg-id="301" tvg-chno="716" tvg-name="tabbar-hits" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tabbar-hits.png" group-title="Movies", Tabbar Hits
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8?hdnts=st%3D1769100476~exp%3D1769122076~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe11b0319-52e8-4190-ab03-3931cc68eac9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_301_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_301_-1~hmac%3Daaea69af8d163029566a9bce105d014140d2c6f051c23bf2e9af7fc431719202
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8?hdnts=st%3D1769104709~exp%3D1769126309~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe11b0319-52e8-4190-ab03-3931cc68eac9%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_301_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_301_-1~hmac%3D636e49eebfb177b804d466d1c9247e02c56ebe03e4bc9d5969ed4729fb41a468
 #EXTINF:-1 tvg-id="37" tvg-chno="702" tvg-name="pitaara-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbzkrr.png" group-title="Movies", Pitaara TV
-https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8?hdnts=st%3D1769100477~exp%3D1769122077~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-583798%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_37_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_37_-1~hmac%3D0feda1ac1ef89b4e8956819509d61b996e12b615616b236ada7d56891e1edb94
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8?hdnts=st%3D1769104709~exp%3D1769126309~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-583798%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_37_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_37_-1~hmac%3D20a95fcb5f2cf07b1d469876b2c5644575a92ba96a740a0532a82ee808384ea5
 #EXTINF:-1 tvg-id="22" tvg-chno="766" tvg-name="dabangg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qovodm.png" group-title="Movies", Dabangg
-https://d1taaads3ztvmu.cloudfront.net/120723/dabangg/playlist.m3u8?hdnts=st%3D1769100478~exp%3D1769122078~acl%3D%21%2A%2F120723%2Fdabangg%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_22_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_22_-1~hmac%3D81cc7cf10b2bfeec2bf5cf8fe1088685027c0c29b4091898ee8546ad5df3604d
+https://d1taaads3ztvmu.cloudfront.net/120723/dabangg/playlist.m3u8?hdnts=st%3D1769104710~exp%3D1769126310~acl%3D%21%2A%2F120723%2Fdabangg%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_22_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_22_-1~hmac%3D103ea3ee4659ca06ef3ff3477a88bc753cabee2cd86c7a9381ef6f7ad52a5a73
 #EXTINF:-1 tvg-id="329" tvg-chno="" tvg-name="sana-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sana-tv.png" group-title="Movies", Sana TV
-https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8?hdnts=st%3D1769100478~exp%3D1769122078~acl%3D%21%2A%2Fus%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb6d9e864-ec16-410a-804d-ccf8f720bfaa%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_329_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.176.138.202_yuppfast_2_channel_329_-1~hmac%3Dff6b2864d6772877752026afe2c3ebba83e9310fdadf16b05767da47168efd74
+https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8?hdnts=st%3D1769104710~exp%3D1769126310~acl%3D%21%2A%2Fus%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb6d9e864-ec16-410a-804d-ccf8f720bfaa%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_329_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.184.210.58_yuppfast_2_channel_329_-1~hmac%3Dbbd11eb582330c25af6915850c95a7c9853c39dc89cf98eca40e89bc0f63b372
 #EXTINF:-1 channel-id="samsung-KRBC32000191N" tvg-id="KRBC32000191N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20250402T010148SQUARE.png" group-title="samsung" tvg-chno="741",CJ ENM MOVIE
 https://jmp2.uk/sam-KRBC32000191N.m3u8
 #EXTINF:-1 channel-id="samsung-KR12000017G" tvg-id="KR12000017G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20250827T005929SQUARE.png" group-title="samsung" tvg-chno="743",Genie Movie
@@ -985,10 +991,6 @@ https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/video.m3u8
 #EXTINF:-1 group-title="klowdtv",-1 tvg-id="",Action Hollywood Movies (720p) [Geo-blocked]
 https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="52" tvg-chno="256" tvg-name="cowboy-movie-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cowboy-movie-channel.png" group-title="Yupptv", Cowboy Movie Channel
-https://streams2.sofast.tv/ptnr-yupptv/title-COWBOY-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/manifest.m3u8?hdnts=st%3D1769094093~exp%3D1769115693~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-COWBOY-MOVIE-CHANNEL-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F4434fd47-6d46-43e9-b132-fab122edc732%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_68.220.61.183_yuppfast_2_channel_52_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_68.220.61.183_yuppfast_2_channel_52_-1~hmac%3De928a41cc5b670fdb0aa215aa08a61c0c368e34c28c7eb984ee1db10b13495a9
-#EXTINF:-1 tvg-id="55" tvg-chno="259" tvg-name="drive-in-movie-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png" group-title="Yupptv", Drive In Movie Channel
-https://streams2.sofast.tv/ptnr-yupptv/title-DRIVE-IN-MOVIE-CHANNEL-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8?hdnts=st%3D1769094094~exp%3D1769115694~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-DRIVE-IN-MOVIE-CHANNEL-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fe5056383-20ac-488f-b299-6577f66881ff%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_68.220.61.183_yuppfast_2_channel_55_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_68.220.61.183_yuppfast_2_channel_55_-1~hmac%3Df9126607b789d286c4a9e27cc5c2ee5a322acd5785b75ca51e0a21633f86e338
 #EXTINF:-1 tvg-id="99991709" tvg-name="Hallmark Movies & More" tvg-logo="https://image.xumo.com/v1/channels/channel/99991709/168x168.png?type=color_onBlack" group-title="xumo_playlist",Hallmark Movies & More
 https://live-content.xumo.com/2777/content/XM0VL1SULP4CE6/24843353/master.m3u8
 #EXTINF:-1 tvg-id="99951251" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/168x168.png?type=color_onBlack" group-title="xumo_playlist",MovieSphere by Lionsgate
