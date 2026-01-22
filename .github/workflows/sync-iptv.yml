@@ -1,67 +1,131 @@
-name: Sync M3U to Root
+name: IPTV Auto Sync & Categorize
 
 on:
   schedule:
-    - cron: '0 * * * *'   # 每小时执行一次
-  workflow_dispatch:      # 手动触发
+    - cron: '0 * * * *'     # 每小時
+  workflow_dispatch:        # 手動執行
 
 permissions:
-  contents: write   # ⬅⬅⬅ 允许 Actions 推送到仓库
+  contents: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout your repo
+      # =============================
+      # 1️⃣ 取回自己的倉庫
+      # =============================
+      - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
-      - name: Fetch .m3u/.m3u8 file list from source repo
+      # =============================
+      # 2️⃣ 從源頭倉庫取得 m3u 清單
+      # =============================
+      - name: Fetch source playlist list
         run: |
           curl -s https://api.github.com/repos/abusaeeidx/IPTV-Scraper-Zilla/contents \
-          | jq -r '.[] | select(.name | test("\\.(m3u8?)$")) | .download_url' > urls.txt
-          echo "Found playlist URLs:"
-          cat urls.txt
+          | jq -r '.[] | select(.name | test("\\.(m3u8?)$")) | .download_url' \
+          > source_urls.txt
 
-      - name: Download .m3u/.m3u8 files to ROOT directory
+      # =============================
+      # 3️⃣ 下載所有來源 m3u / m3u8
+      # =============================
+      - name: Download source playlists
         run: |
+          rm -f *.m3u *.m3u8
           while read -r url; do
             [ -z "$url" ] && continue
-            filename=$(basename "$url")
-            echo "Downloading $filename"
-            curl -L -o "$filename" "$url"
-          done < urls.txt
+            curl -L -o "$(basename "$url")" "$url"
+          done < source_urls.txt
 
-      # 🔽 新增：单独下载 sports.m3u 并重命名为 Nowsports.m3u
-      - name: Download sports.m3u as Nowsports.m3u
+      # =============================
+      # 4️⃣ 額外補充來源（固定）
+      # =============================
+      - name: Download extra playlists
         run: |
-          echo "Downloading sports.m3u -> Nowsports.m3u"
-          curl -L -o "Nowsports.m3u" "https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/sports.m3u"
+          curl -L -o Nowsports.m3u \
+            https://raw.githubusercontent.com/ediart/tvbox/main/TVBoxOSC/tvbox/sports.m3u
 
-      # 🔽 新增：下载 StarHub.m3u
-      - name: Download StarHub.m3u
-        run: |
-          echo "Downloading StarHub.m3u"
-          curl -L -o "StarHub.m3u" "https://raw.githubusercontent.com/AbidUrsa/StarHubPlaylist/refs/heads/main/StarHub.m3u"
+          curl -L -o StarHub.m3u \
+            https://raw.githubusercontent.com/AbidUrsa/StarHubPlaylist/main/StarHub.m3u
 
-      - name: Commit and Push if changed
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # =============================
+      # 5️⃣ 合併 + 去重 + 分類（核心）
+      # =============================
+      - name: Generate categorized playlists
         run: |
-          set -e
+          echo "Generating playlists..."
+
+          # 初始化輸出
+          for f in All Sports News Kids Movies Variety Taiwan HongKong; do
+            echo "#EXTM3U" > "$f.m3u"
+          done
+
+          awk '
+          BEGIN {
+            IGNORECASE=1
+
+            # 分類順序（命中即停）
+            order[1]="Sports"
+            order[2]="News"
+            order[3]="Kids"
+            order[4]="Taiwan"
+            order[5]="HongKong"
+            order[6]="Movies"
+            order[7]="Variety"
+
+            # 分類規則（統一表列）
+            rule["Sports"]   = "(体育|體育|sports|espn|nba|足球|篮球|籃球|cctv-?5)"
+            rule["News"]    = "(新闻|新聞|news|cnn|bbc|凤凰|鳳凰|cctv-?13)"
+            rule["Kids"]    = "(儿童|兒童|少儿|少兒|卡通|动漫|動漫|kids|baby|cctv-?14)"
+            rule["Taiwan"]  = "(台湾|台灣|tvbs|民视|民視|三立|东森|東森)"
+            rule["HongKong"]= "(香港|翡翠|明珠|tvb|j2|viu)"
+            rule["Movies"]  = "(电影|電影|movie|movies|cinema|影院)"
+            rule["Variety"] = "(综艺|綜藝|娱乐|娛樂|variety|show)"
+
+            last=""
+          }
+
+          /^#EXTINF/ {
+            last=$0
+            next
+          }
+
+          /^(http|https):\/\// {
+            url=$0
+            if (seen[url]++) next
+
+            # 全部
+            print last >> "All.m3u"
+            print url  >> "All.m3u"
+
+            # 分類
+            for (i=1; i<=7; i++) {
+              c = order[i]
+              if (last ~ rule[c]) {
+                print last >> (c ".m3u")
+                print url  >> (c ".m3u")
+                break
+              }
+            }
+          }
+          ' *.m3u *.m3u8 2>/dev/null
+
+      # =============================
+      # 6️⃣ Commit & Push（有變化才推）
+      # =============================
+      - name: Commit and push
+        run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions@github.com"
 
-          git add *.m3u *.m3u8 2>/dev/null || true
+          git add *.m3u *.m3u8
 
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
 
-          git commit -m "Update M3U playlists"
-
-          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git push origin HEAD:${GITHUB_REF#refs/heads/}
+          git commit -m "Auto update IPTV playlists"
+          git push
