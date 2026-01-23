@@ -605,8 +605,6 @@ https://jmp2.uk/sam-IT5000006B7.m3u8
 https://jmp2.uk/sam-FR1800002C4.m3u8
 #EXTINF:-1 channel-id="samsung-ESAJ38000046O" tvg-id="ESAJ38000046O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="samsung" tvg-chno="4821",Pluto TV Kids
 https://jmp2.uk/sam-ESAJ38000046O.m3u8
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoverykids.png" group-title="BD",discovery kids
-https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=9cfb456d9bfdec862e4139f39f0704f19a9a24d2-49ac44fd72546fc37bace2de3a297366-1769129196-1769125596
 #EXTINF:-1 tvg-id="kids-tv" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/poster_20221202_210947.jpg" group-title="distrotv",Kids TV - Nursery Rhymes and Baby Songs
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 #EXTINF:-1 tvg-id="kids-tv-espanol" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/poster_20230426_174326.jpg" group-title="distrotv",Kids TV Español Latino - Canciones Infantiles
@@ -620,9 +618,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="toonzkids-atfal" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-atfal/poster_20240521_223927.jpg" group-title="distrotv",ToonzKids Atfal
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-arabic/master.m3u8
 #EXTINF:-1 tvg-id="99991107" tvg-name="Xumo Free Kids TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991107/168x168.png?type=color_onBlack" group-title="xumo_playlist",Xumo Free Kids TV
-https://live-content.xumo.com/1923/content/XM09YJFOQRHV4W/21927650/master.m3u8
+https://live-content.xumo.com/1923/content/XM05JN10FYP8N0/21927916/master.m3u8
 #EXTINF:-1 tvg-id="99951209" tvg-name="Baby Shark TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951209/168x168.png?type=color_onBlack" group-title="xumo_playlist",Baby Shark TV
-https://live-content.xumo.com/3871/content/XM0W9PHLNL234F/24655996/master.m3u8
+https://live-content.xumo.com/3871/content/XM0V2LFUOUB8UF/24656708/master.m3u8
 #EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="https://8upload.com/image/68641d8071410/babytvhilay.png" group-title="hilaytv",Baby TV
 https://hilay.tv/l/babytv
 #EXTINF:-1 tvg-id="Babyfirst.mv" tvg-name="Baby First" tvg-logo="https://8upload.com/image/6807ce190e521/babyfirsthilay.png" group-title="hilaytv",Baby First
