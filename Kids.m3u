@@ -2,15 +2,15 @@
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",[BD] Discovery Kids
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/79.png" group-title="kids",cartoon network
-https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=f1ccbd18b4cf37c90ab671cb8a45575ff751b531-180717dabedb0fd3e3e75b220ad09d83-1769126021-1769122421
+https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=439cd4feb17d519b644a25f57cd566ebcdcfe2e0-13edef32f7b0456ea63d47a6707c5197-1769129196-1769125596
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/55.png" group-title="kids",nick
-https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=1b0a57b11b1f09824ef7455123f8bf6a1b8d538f-e327a8a42259c47c8e3ed98dfa90d4ab-1769126021-1769122421
+https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=ca3e5ca14093027bbf1cbc2f9cc15c37182e669e-e68d9b9ca7efda7ed044947f393c622f-1769129196-1769125596
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/pogo.png" group-title="kids",pogo
-https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=7dca340a743c03f18fd1decb2edfd9c90bc81251-8568f04f34ac300cf6174b6e2c600105-1769126021-1769122421
+https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=8ff336cf552fd3808f652729837a6146e48c285e-0471e87a1e086b1dc7d622c9aeae3bcc-1769129196-1769125596
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoverykids.png" group-title="kids",discovery kids
-https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=742524591714dc5ab67b6360d539a3ed30fdf979-ea52a80ba714c991ef1a4ce76484db89-1769126021-1769122421
+https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=9cfb456d9bfdec862e4139f39f0704f19a9a24d2-49ac44fd72546fc37bace2de3a297366-1769129196-1769125596
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="kids",sony yay
-https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=93ba7f1846f4ff387bee6b644e2f254f3f11e6b9-3b86492047ffb44f3c194f811d41b9a5-1769126021-1769122421
+https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=ff76f036dc349553aca5b30466fa2f2e612eec50-f24250157b2cf3915d149f7a593a8293-1769129196-1769125596
 #EXTINF:-1 tvg-name="PBS Kids" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
@@ -563,14 +563,14 @@ https://jmp2.uk/sam-IT5000006B7.m3u8
 https://jmp2.uk/sam-FR1800002C4.m3u8
 #EXTINF:-1 channel-id="samsung-ESAJ38000046O" tvg-id="ESAJ38000046O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="samsung" tvg-chno="4821",Pluto TV Kids
 https://jmp2.uk/sam-ESAJ38000046O.m3u8
+#EXTINF:-1 tvg-id="kids-tv" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/poster_20221202_210947.jpg" group-title="distrotv",Kids TV - Nursery Rhymes and Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 #EXTINF:-1 tvg-id="kids-tv-espanol" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/poster_20230426_174326.jpg" group-title="distrotv",Kids TV Español Latino - Canciones Infantiles
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-espanol/master_es.m3u8
 #EXTINF:-1 tvg-id="toonzkids-ninos" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-ninos/poster_20231130_230419.jpg" group-title="distrotv",ToonzKids niños
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 #EXTINF:-1 tvg-id="kids-tv-india" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-india/poster_20230518_164234.jpg" group-title="distrotv",Kids TV India - Nursery Rhymes and Baby Songs
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
-#EXTINF:-1 tvg-id="kids-tv-et" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-et/poster_20240521_223754.jpg" group-title="distrotv",Kids TV - Nursery Rhymes and Baby Songs
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_en.m3u8
 #EXTINF:-1 tvg-id="toonzkids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/poster_20231121_195247.jpg" group-title="distrotv",ToonzKids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 #EXTINF:-1 tvg-id="toonzkids-atfal" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-atfal/poster_20240521_223927.jpg" group-title="distrotv",ToonzKids Atfal
@@ -655,9 +655,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=BFQE_NtUYLScAUYvx2vpe9IsezHwkSHpL8q-eqK12ZvrexZJmhAVeqDFTOrWvYXR
 #EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Asia" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/davinci.jpg?raw=true" group-title="hilaytv",DAVINCI
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+#EXTINF:-1 tvg-id="kids-tv-et" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-et/poster_20240521_223754.jpg" group-title="hilaytv",Nursery Rhymes and Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_en.m3u8
 #EXTINF:-1 group-title="hilaytv" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs07
-#EXTINF:-1 tvg-id="kids-tv" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/poster_20221202_210947.jpg" group-title="Featured",Kids TV - Nursery Rhymes and Baby Songs
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs07
