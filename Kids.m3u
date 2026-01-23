@@ -2,15 +2,15 @@
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",[BD] Discovery Kids
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/79.png" group-title="kids",cartoon network
-https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=d54ed606944ca6bdba378728331c76ab1c9de55d-1b89005c84dfc637cba41c7791b90fca-1769190180-1769186580
+https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=c21a80798721b03e7dbc6c66aa69faf5ab91f977-6c73731dc4711d61cf8827627a3ebdcd-1769194562-1769190962
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/55.png" group-title="kids",nick
-https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=d12e2866fc54e19d7fb0d665016590b00089cd7d-7d7aa03d2853c6bed5e6c3ef5ee0f4e7-1769190180-1769186580
+https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=282f3a4bca94c8ce7259dcb3b11dc4d6ad5d64f8-cf3e7017700a9414a8d4a3f47147e5fb-1769194562-1769190962
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/pogo.png" group-title="kids",pogo
-https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=1eeca19499abebb8a3be8e53c27bc0e53406a22d-a0af770ccd770e276b39b33d7ff40a01-1769190180-1769186580
+https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=6465a7f18196ea035e8548c170c3ce54df16ad56-b77e3105b134460b69d88691a4f63426-1769194562-1769190962
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoverykids.png" group-title="kids",discovery kids
-https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=571595021d803f5da9bdee8156d1f29d06437a24-aa206958c357153f7e3661bfb5620139-1769190180-1769186580
+https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=aca24a0350d8e2ca7f29632b5c5ff74758230c72-69ec41a02e70d523520ba6cfebc27edd-1769194562-1769190962
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="kids",sony yay
-https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=4dd1daf1a52951a36a2b9f03ab525fcfa6eecc03-a944803c680550f13d445ea784d9d433-1769190180-1769186580
+https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=03a4f0211c2d979480eb52d7f8922669a555fa1b-4f856a104f673051da968233acc80330-1769194562-1769190962
 #EXTINF:-1 tvg-name="PBS Kids" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick" group-title="Kids",Nick
