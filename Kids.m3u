@@ -2,15 +2,15 @@
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",[BD] Discovery Kids
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/79.png" group-title="kids",cartoon network
-https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=f92da2ddebba475a4d4d42cc954a3689101308ff-93e0e2175d78e5fb8bd0e16ce0cb5ddb-1769277214-1769273614
+https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=1d807f609e4973e132cf1bec05f5a7e726e8f5b3-c922010eceee35776f52f2ac9493268d-1769280140-1769276540
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/55.png" group-title="kids",nick
-https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=d52f2e9532a8f8882056cd22994e635833d45ca0-d85931ce0c928488db42abb3e09f3b72-1769277213-1769273613
+https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=10376f5c3ebcbcf0139b3c51d041b58ade87b2e9-03e0518ba7a3316703703f6c8e65466a-1769280140-1769276540
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/pogo.png" group-title="kids",pogo
-https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=703a0d4003a31d19ded729e12b7ff1d8a58f0c47-8514c46b8129bd454307f250526180b6-1769277213-1769273613
+https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=3d4ea3e71fa476a8e10ab629b51834e30423c86f-0e94852d02f9c6c970c896573e2ad917-1769280140-1769276540
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoverykids.png" group-title="kids",discovery kids
-https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=542dae22b5280fcdcdfb710b1188245525650ac6-7c633a613a097aa983105d2b173860aa-1769277214-1769273614
+https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=097be52b174ccf02eb3c7ff0cbadd9027912cf8c-7e706b2d617ca35bba437e66d3d53d5b-1769280140-1769276540
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="kids",sony yay
-https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=5cd301ad0d53f8274f5c3f4dfeffda71a781844d-14e576cb833a25790a741cf63fb3beda-1769277213-1769273613
+https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=c3ce4ac01c97ffe14cb228b51b43d2a91beaf3b7-2901ff88ba38b900dd2e542c1022c18e-1769280140-1769276540
 #EXTINF:-1 tvg-name="PBS Kids" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick" group-title="Kids",Nick
@@ -518,13 +518,13 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us@SD",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-id="83" tvg-chno="232" tvg-name="kiddo" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png" group-title="Kids", Kiddo
-https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8?hdnts=st%3D1769269759~exp%3D1769291359~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KIDDO-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F5bcf9d24-04f2-401d-a93f-7af54f29461a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.213.114_yuppfast_2_channel_83_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.213.114_yuppfast_2_channel_83_-1~hmac%3D304d445ad220271195fd6e7c0475dafa79672c0e169c0902125a5a28b1cddea8
+https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8?hdnts=st%3D1769281045~exp%3D1769302645~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KIDDO-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F5bcf9d24-04f2-401d-a93f-7af54f29461a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.161.45.226_yuppfast_2_channel_83_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.161.45.226_yuppfast_2_channel_83_-1~hmac%3D2ae90f62f07113bc0b628e51ac166f7d3e7c55bbf19e3e73e94e65277b67e65a
 #EXTINF:-1 tvg-id="48" tvg-chno="235" tvg-name="cartoon-tv-classics" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png" group-title="Kids", Cartoon TV Classics
-https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st%3D1769269759~exp%3D1769291359~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-CARTOON-TV-CLASSICS-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd5543c06-5122-49a7-9662-32187f48aa2c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.213.114_yuppfast_2_channel_48_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.213.114_yuppfast_2_channel_48_-1~hmac%3D8114a4675168bfb32e512ef186c12e8d0d3f055b529b0b1744d2f8d1b0e695f5
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st%3D1769281045~exp%3D1769302645~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-CARTOON-TV-CLASSICS-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd5543c06-5122-49a7-9662-32187f48aa2c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.161.45.226_yuppfast_2_channel_48_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.161.45.226_yuppfast_2_channel_48_-1~hmac%3De8501abf2771e5d29a90275048f5e2aeeb0c5edf2fa54f1b7aea9108877d43ed
 #EXTINF:-1 tvg-id="326" tvg-chno="" tvg-name="green-gold-tv-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv-india.png" group-title="Kids", Green Gold TV India
-https://vglivessai.akamaized.net/ptnr-yupptv/title-Green_Gold_India/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/playlist.m3u8?hdnts=st%3D1769269760~exp%3D1769291360~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Green_Gold_India%2Feu%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F675a37e5-f517-434e-adae-d25ae1706340%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.213.114_yuppfast_2_channel_326_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.213.114_yuppfast_2_channel_326_-1~hmac%3Da974f90e8a60c2a087e46277123bdd60b3b150482d143652dd115969857657c1
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Green_Gold_India/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/playlist.m3u8?hdnts=st%3D1769281046~exp%3D1769302646~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Green_Gold_India%2Feu%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F675a37e5-f517-434e-adae-d25ae1706340%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.161.45.226_yuppfast_2_channel_326_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.161.45.226_yuppfast_2_channel_326_-1~hmac%3D73a0e7c0d526d714a1b6d893220a251dbc64cadf52813cc357fe13c276612661
 #EXTINF:-1 tvg-id="281" tvg-chno="2" tvg-name="green-gold-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png" group-title="Kids", Green Gold TV
-https://greengold-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/abce93aa-dfba-43c5-a356-876695d20088/playlist.m3u8?hdnts=st%3D1769269760~exp%3D1769291360~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fabce93aa-dfba-43c5-a356-876695d20088%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.213.114_yuppfast_2_channel_281_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.213.114_yuppfast_2_channel_281_-1~hmac%3Db496c68caa0fa01534af74ea86ae2084a47d1658fc8c88c9d55f752d1970aed9
+https://greengold-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/abce93aa-dfba-43c5-a356-876695d20088/playlist.m3u8?hdnts=st%3D1769281046~exp%3D1769302646~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fabce93aa-dfba-43c5-a356-876695d20088%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.161.45.226_yuppfast_2_channel_281_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.161.45.226_yuppfast_2_channel_281_-1~hmac%3Ddd229a25fec96e6efefc0afff5912241e3709b8a3af532dac7742322b9d1d67d
 #EXTINF:-1 channel-id="samsung-KR700007M0" tvg-id="KR700007M0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700007M0_20250730T003358SQUARE.png" group-title="samsung" tvg-chno="712",Kids time
 https://jmp2.uk/sam-KR700007M0.m3u8
 #EXTINF:-1 channel-id="samsung-IN2500003JW" tvg-id="IN2500003JW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png" group-title="samsung" tvg-chno="1266",Powerkids Kartoon Channel
@@ -561,14 +561,14 @@ https://jmp2.uk/sam-IT5000006B7.m3u8
 https://jmp2.uk/sam-FR1800002C4.m3u8
 #EXTINF:-1 channel-id="samsung-ESAJ38000046O" tvg-id="ESAJ38000046O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png" group-title="samsung" tvg-chno="4821",Pluto TV Kids
 https://jmp2.uk/sam-ESAJ38000046O.m3u8
-#EXTINF:-1 tvg-id="kids-tv" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/poster_20221202_210947.jpg" group-title="distrotv",Kids TV - Nursery Rhymes and Baby Songs
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 #EXTINF:-1 tvg-id="kids-tv-espanol" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/poster_20230426_174326.jpg" group-title="distrotv",Kids TV Español Latino - Canciones Infantiles
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-espanol/master_es.m3u8
 #EXTINF:-1 tvg-id="toonzkids-ninos" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-ninos/poster_20231130_230419.jpg" group-title="distrotv",ToonzKids niños
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 #EXTINF:-1 tvg-id="kids-tv-india" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-india/poster_20230518_164234.jpg" group-title="distrotv",Kids TV India - Nursery Rhymes and Baby Songs
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+#EXTINF:-1 tvg-id="kids-tv-et" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-et/poster_20240521_223754.jpg" group-title="distrotv",Kids TV - Nursery Rhymes and Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_en.m3u8
 #EXTINF:-1 tvg-id="toonzkids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/poster_20231121_195247.jpg" group-title="distrotv",ToonzKids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 #EXTINF:-1 tvg-id="toonzkids-atfal" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-atfal/poster_20240521_223927.jpg" group-title="distrotv",ToonzKids Atfal
@@ -653,8 +653,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=BFQE_NtUYLScAUYvx2vpe9IsezHwkSHpL8q-eqK12ZvrexZJmhAVeqDFTOrWvYXR
 #EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Asia" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/davinci.jpg?raw=true" group-title="hilaytv",DAVINCI
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
-#EXTINF:-1 tvg-id="kids-tv-et" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-et/poster_20240521_223754.jpg" group-title="hilaytv",Nursery Rhymes and Baby Songs
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_en.m3u8
 #EXTINF:-1 group-title="hilaytv" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs07
 #EXTINF:-1 group-title="JapanTV" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
