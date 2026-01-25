@@ -1,54 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",[BD] Discovery Kids
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/24f86d03093467c8b9fa0e17f72c4e06" group-title="Channels",Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" group-title="Kids",Cartoon Network
-https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1769357577&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=91c50791a54924f6f6597d03e78d9b3c
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6" group-title="Kids",Disney JR
-https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1769357579&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=15966169bd36e0466a3cf364cfb333be
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e" group-title="Kids",Nicktoons
-https://tvsen5.aynascope.net/nicktoons/index.m3u8?e=1769357579&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b484266ca85667f28e02cd0c3b7c7c56
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e" group-title="Kids",Nickjr
-https://tvsen5.aynascope.net/nickjr/index.m3u8?e=1769357580&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fe7a17488047713687291554c0f9ac6d
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814" group-title="Kids",3ABN Kids
-https://tvsen6.aynascope.net/3abnkids/index.m3u8?e=1769357581&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1f319e5b5a2a8d8dc60e617d0e42a14d
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67" group-title="Kids",Dios Te Ve Kids
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/61c87bda9e538dd52b3ef654e85a11ff" group-title="Kids",Forever Kids
-https://tvsen6.aynascope.net/ForeverKids/index.m3u8?e=1769357582&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=04a9712aea08681ac6ccd1cea93fff2a
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf" group-title="Kids",Kids Pang TV
-https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/45d94f96cdc5a444bc4969af940fe294" group-title="Kids",M NET Kids
-https://tvsen6.aynascope.net/MNetKids/index.m3u8?e=1769357584&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aca77fd903dba3fb8516c70d6daf1d14
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d" group-title="Kids",Moonbug Kids
-https://tvsen6.aynascope.net/MoonbugKids/index.m3u8?e=1769357585&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c2899e723a8f4ed04cc7cc53cc5464f8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/91efc1ae410c11ccc4ab07f7221f0dad" group-title="Kids",TVC Arabic Kids
-https://tvsen6.aynascope.net/TVCArabicKids/index.m3u8?e=1769357586&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a60c509a36a3c00ab9ef8799d7e753ee
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1" group-title="Kids",Disney Channel
-https://tvsen7.aynascope.net/disney/index.m3u8?e=1769357587&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=48b077bdcbb7a62174d07c94c476fed4
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f9b945284524683f1de8beb07ded8989" group-title="Kids",Disney XD
-https://tvsen5.aynascope.net/disneyxd/index.m3u8?e=1769357587&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f6a753fa6cbb374ef084fecf68570100
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ca9edd253c97a2c67fcd856f43a31702" group-title="Kids",Family JR
-https://tvsen5.aynascope.net/familyjr/index.m3u8?e=1769357588&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b6a8b21ee855909abc6ddc6a6254a3ff
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541" group-title="Kids",Nickelodeon
-https://tvsen7.aynascope.net/nicklodean/index.m3u8?e=1769357589&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=51ca79a8cbb74d1262010ff38ac6370a
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5739277278d596533abbacc60ea694be" group-title="Kids",Teen Nick
-https://tvsen7.aynascope.net/teennick/index.m3u8?e=1769357589&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4121f70511bc509a117efb4ba2b5ea16
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d79d89851faee0823a1f2bed1a96e84d" group-title="Kids",YTV
-https://tvsen6.aynascope.net/ytv/index.m3u8?e=1769357591&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e92ab725f75f39faf4ab8ffb04c8398f
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6" group-title="Kids",TVCARiB Kids & Teens
-https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/79.png" group-title="kids",cartoon network
-https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=6b874c0c1ea28afea048e8704a992175df78d859-52393ecf0d44a880227a559d27a48ddd-1769355976-1769352376
+https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=b8e4004470eca5e911cf2b4b7eba3964180042d8-512ed8918927d9568d2dbb6b28421257-1769359673-1769356073
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/55.png" group-title="kids",nick
-https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=b73935e28207142d88b5106a7bb29ec2aacefef4-7241657616981c53684a070a258848ee-1769355976-1769352376
+https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=92cf72cf14dbcd2cb02c641e0cbc5a9ef06a0921-a01e116b9be298b7127ecda9559577e1-1769359673-1769356073
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/pogo.png" group-title="kids",pogo
-https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=d8b74998093ca2acd060b30a146629f18b72f73e-24583b47faa9d02b66f535ede4d80353-1769355976-1769352376
+https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=ab532330e8525c0a9cb40d20e5d2dfa01d64ba45-3483a91eae27fd9d1110a0e37ae987a7-1769359673-1769356073
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoverykids.png" group-title="kids",discovery kids
-https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=df2e5afefdf2ca86163692a5b0df7df9c363eb0c-f5dc949467e9db04be44b3287e09f0b5-1769355976-1769352376
+https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=0e7eeed82ddbb2c0dd80c55f55d1d212062a00a2-004094d12ed9262b15fd5a6c0e8b9cac-1769359673-1769356073
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="kids",sony yay
-https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=cc817b7a9d701dfaeb416d741304767dec27a91e-c774ff7bc38ac4beb7e52d04b6ab59fb-1769355976-1769352376
+https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=466dcc3283214a7fd0aed681517d34ec1f74f15a-d516c4d71f60098b1bf899ffb3485500-1769359673-1769356073
 #EXTINF:-1 tvg-name="PBS Kids" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick" group-title="Kids",Nick
@@ -61,8 +23,6 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Gopal Bhar" group-title="Kids",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541" group-title="Kids",Nickelodeon
-https://tvsen7.aynascope.net/nicklodean/index.m3u8?e=1769357589&u=78be6644-0a65-48ec-81a4
 #EXTINF:-1 tvg-id="Super_Simple_Songs" tvg-logo="https://img.platform.wurl.dev/channel/559/lg/d86b91/LG-400x225_v1.png" group-title="Kids",Super Simple Songs
 https://wurljansonmedia.global.transmit.live/hls/69023f1166b49dcc2386bae5/playlist.m3u8
 #EXTINF:-1 tvg-id="Super_Wings" tvg-logo="https://img.platform.wurl.dev/channel/1694/lg/9c948f/LG-400x225_v1.png" group-title="Kids",Super Wings
@@ -547,16 +507,6 @@ https://jmp2.uk/stvp-USAK3508716A
 https://jmp2.uk/stvp-USBD3300017XB
 #EXTINF:-1 channel-id="USBD3300012VX" tvg-id="USBD3300012VX" tvg-chno="3714" tvg-name="batteryPOP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20250211T021653SQUARE.png" group-title="Kids",batteryPOP
 https://jmp2.uk/stvp-USBD3300012VX
-#EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="HUB KIDS",Cartoon Network
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/1ac@1y35zjofx5hhjzwrntzai15ttmgo5pos12zvcgca/bpk-tv/CartoonNetwork/output/manifest.mpd?bkm-query
-#EXTINF:-1 tvg-id="CBeebies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png" group-title="HUB KIDS",Cbeebies HD
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/1ac@tpns5p3zvj45flcjlqkrg0e5502lt25ltb2p20aa/bpk-tv/CbeebiesHD/output/manifest.mpd?bkm-query
-#EXTINF:-1 tvg-id="DreamWorks.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png" group-title="HUB KIDS",DreamWorks Channel HD
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/1ac@1x24lzhzs1pfpyl4n0bawz3xsx4fx5k41vfdimca/bpk-tv/DreamworksHD/output/manifest.mpd?bkm-query
-#EXTINF:-1 tvg-id="Nick.Jr.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png" group-title="HUB KIDS",Nick Jr.
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/1ac@s1uuhlgkts4mzih0i2ysojjpwu3gf3zssflnh1ca/bpk-tv/NickJr/output/manifest.mpd?bkm-query
-#EXTINF:-1 tvg-id="Nickelodeon.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/314_1920x1080_HTV.png" group-title="HUB KIDS",Nickelodeon HD
-https://bks06.starhubgo.com:443/bpk-token/1aa@tlklz2bcjnftxfrfhddrouwszt2s0kgpt1odwkca/bpk-tv/NickelodeonHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids SD" group-title="Live",Universal Kids SD
 https://tvpass.org/live/UniversalKidsEast/sd
 #EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids HD" group-title="Live",Universal Kids HD
