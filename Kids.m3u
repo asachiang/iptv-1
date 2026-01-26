@@ -40,15 +40,15 @@ https://tvsen6.aynascope.net/ytv/index.m3u8?e=1769444534&u=78be6644-0a65-48ec-81
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6" group-title="Kids",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/79.png" group-title="kids",cartoon network
-https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=e414a9ef9dbbdd1d3556edfa8ca576a864d601bf-3efbd0bac3c1cdce5be92bc1388bd5a0-1769444006-1769440406
+https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=9906db1e370e25b70c7a1d0d1ec0485afac71a8a-c7cc0b0d420ee7af2e500e9eb220aa6a-1769445982-1769442382
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/55.png" group-title="kids",nick
-https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=07977f08e6d740ec45ea4cc0e28100156d28c5f5-11f02e7e2bec716aac09eaca01758fdd-1769444006-1769440406
+https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=0d11d6268422a13c7e33a703cfbbee4825eeb1ad-9e251b8d486e568f970626b9d7e9215c-1769445982-1769442382
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/pogo.png" group-title="kids",pogo
-https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=7dabb4c23d3b33feb84da09ad006efc8e6b4d88a-a55e341bc0a63c05a255924690dff2f2-1769444006-1769440406
+https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=32460edb537b55b4b1a8623c814e232541f60646-7a398612d0246ea7c3c0097831631a38-1769445982-1769442382
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoverykids.png" group-title="kids",discovery kids
-https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=cd3de23a200dbade8e5aece4ef38eca942ceac4d-3c36a87dc4637d3b05f3025c4f802028-1769444006-1769440406
+https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=174ae7db642cb6f5e7a02607e2a5be9c151bedd9-569c1717de4e007d9e3c2ce28da72cc7-1769445982-1769442382
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="kids",sony yay
-https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=50fa1120a771f2e9b9bd33b2f5c26eeade8f06c1-8f68fc659e54eb0c3163e0a2729dd484-1769444006-1769440406
+https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=6a6a3e37b205c4573f7b4ecb35e4d8093941e846-a4791a3654a50aee60f48f18ca3935bd-1769445982-1769442382
 #EXTINF:-1 tvg-name="PBS Kids" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick" group-title="Kids",Nick
@@ -546,15 +546,15 @@ https://jmp2.uk/stvp-USBD3300017XB
 #EXTINF:-1 channel-id="USBD3300012VX" tvg-id="USBD3300012VX" tvg-chno="3714" tvg-name="batteryPOP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20250211T021653SQUARE.png" group-title="Kids",batteryPOP
 https://jmp2.uk/stvp-USBD3300012VX
 #EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="HUB KIDS",Cartoon Network
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/1ac@gfyyhdksad5mirqa3k50tqrpg2jbg4zqghbfewda/bpk-tv/CartoonNetwork/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/1ac@iixafdhg3cum2su2plpgjobkgoc0fizyiko3gwca/bpk-tv/CartoonNetwork/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CBeebies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png" group-title="HUB KIDS",Cbeebies HD
-https://bks06.starhubgo.com:443/bpk-token/1aa@efgecgisyqiyqs3pdy35tmiemijrbrqbevcmnqda/bpk-tv/CbeebiesHD/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/1ac@1r0c03coklixlog04eqa0vfu1vpuwqox1rtavmca/bpk-tv/CbeebiesHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="DreamWorks.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png" group-title="HUB KIDS",DreamWorks Channel HD
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/1ac@yennggruuvzyel41h0nhq00mmsgjltrjyajh3jba/bpk-tv/DreamworksHD/output/manifest.mpd?bkm-query
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/1aa@iuag01qycyipduwx2ethrbmuxjcfqr4giac30laa/bpk-tv/DreamworksHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Nick.Jr.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png" group-title="HUB KIDS",Nick Jr.
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/1ab@yhxnlmly2wnrnwkwx2igwo1wyo4zn1c1yvmle0aa/bpk-tv/NickJr/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/1ab@35djdtvxpenmgavjlihnghsggd55i0ym3nypmfca/bpk-tv/NickJr/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Nickelodeon.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/314_1920x1080_HTV.png" group-title="HUB KIDS",Nickelodeon HD
-https://bks05.starhubgo.com:443/bpk-token/1aa@etae1hzgcqm5ehpoten55biwpczeaz4jedevbzba/bpk-tv/NickelodeonHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/1ab@pqpcbeoh4jeqy0a5oz2iz5eci2d2tiarpydeosba/bpk-tv/NickelodeonHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids SD" group-title="Live",Universal Kids SD
 https://tvpass.org/live/UniversalKidsEast/sd
 #EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids HD" group-title="Live",Universal Kids HD
