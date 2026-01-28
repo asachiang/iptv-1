@@ -8,41 +8,41 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp",[BD] B4U Movies APAC
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/76.png" group-title="hindi",zee cinema
-https://edge2.roarzone.info:8444/roarzone/bk/76/index.m3u8?token=b4eee1c1f89d8554dda0bb858f81504048abedce-daf1a1bc13d54911e9d36dfb1323e137-1769637185-1769633585
+https://edge2.roarzone.info:8444/roarzone/bk/76/index.m3u8?token=05092cc34d3cae3581d1be6ffb72add14be976b8-3871f6e24aefc694d1f0cdc556edb030-1769639672-1769636072
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/b4umovies.png" group-title="hindi",b4u movies
-https://edge2.roarzone.info:8444/roarzone/toffee/b4u_movies/index.m3u8?token=9deb8d93a10187f80a18a7e52a0fcdd5ff89fa13-13e6f37e647e5d4a1f67a3199368d145-1769637185-1769633585
+https://edge2.roarzone.info:8444/roarzone/toffee/b4u_movies/index.m3u8?token=80abc704cc272008811541a6c4498599991cf757-3bd9dfbb8653689a6dfb855be783b3e4-1769639672-1769636072
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/starmovies.png" group-title="english",star movies
-https://edge2.roarzone.info:8444/roarzone/bk/starmovies/index.m3u8?token=9fe85e8b185242801d47bd86cc5d7de68f640eb6-28e741782a86426ad40e38363dcb1455-1769637185-1769633585
+https://edge2.roarzone.info:8444/roarzone/bk/starmovies/index.m3u8?token=373c0c3c568f2b81def0216390bd7583b20999bd-a20a9a6f40070ceedea5653edee2b73e-1769639672-1769636072
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/86.png" group-title="bangla",movie bangla tv
-https://edge2.roarzone.info:8444/roarzone/bk/86/index.m3u8?token=b8a46da689c952b8a4a9dc3b15eec816f1d25c36-f20c1d83f01581c6299273c32f9f9030-1769637185-1769633585
+https://edge2.roarzone.info:8444/roarzone/bk/86/index.m3u8?token=8c49106c5eddc1701333785b32f9fcf5256ab432-9b3457b5e997cfdabd2e39b8897ba9f8-1769639672-1769636072
+#EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 tvg-name="Kolkata Movies" group-title="Bangladeshi ",Kolkata Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi Movies",B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi Movies",B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="English Movies",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-name="Movies Thriller" group-title="Unknown",Movies Thriller
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-name="My Cinema" group-title="English Movie",My Cinema
+https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
 #EXTINF:-1 tvg-name="KIX" group-title="English Movie",KIX
 http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1 tvg-name="My Cinema" group-title="English Movie",My Cinema
-https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Movies Thriller" group-title="Unknown",Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-name="ZB Cinema" group-title="Indian-Bangla",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="BhojpuriCinema" group-title="India",BhojpuriCinema
@@ -52,7 +52,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="South Movies" group-title="Hindi | 24/7",South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="CricHD 1",Sky Cinema
-https://d5.merichunidya.com:1686/hls/skysme.m3u8?md5=ZIqhz1YpvffACn4SL9tQZQ&expires=1769644516
+https://d8.merichunidya.com:1686/hls/skysme.m3u8?md5=HyrAM_hhkge4WBW4eq88NQ&expires=1769648090
 #EXTINF:-1 tvg-id="ION_Plus" tvg-logo="https://img.platform.wurl.dev/channel/378/lg/165a68/LG-400x225_v1.png" group-title="TV & Movies",ION Plus
 https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSPLGUS/resized_8d94499e51930892cd8ed3da179682b7c84aae8b3f64ffb94d937e325e667a27_1620601landscapejpg_400_225.png" group-title="TV & Movies",MovieSphere
