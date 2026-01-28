@@ -34,19 +34,19 @@ https://tvsen6.aynascope.net/ZeeBanglaCinema/index.m3u8?e=1769588604&u=78be6644-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f24e50516ccf6b3e94a4ca749ccb3533" group-title="Movie",Persiana Kore
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/76.png" group-title="hindi",zee cinema
-https://edge2.roarzone.info:8444/roarzone/bk/76/index.m3u8?token=b5ea183a3e71f07cefb0b6cea8f4f431cde80f71-ed74b6603e0534d8cb586db22305cee3-1769587581-1769583981
+https://edge2.roarzone.info:8444/roarzone/bk/76/index.m3u8?token=3404ac6df0e83037fe17bc341f8beee626aa6df2-a242bcf0d42e46f7501638338bc22f17-1769590086-1769586486
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/b4umovies.png" group-title="hindi",b4u movies
-https://edge2.roarzone.info:8444/roarzone/toffee/b4u_movies/index.m3u8?token=478f12840de1f663c8b0a3e70898e3f7fa1faee4-d18f497e0ed2e7d7ce8a3c02ee09f78e-1769587581-1769583981
+https://edge2.roarzone.info:8444/roarzone/toffee/b4u_movies/index.m3u8?token=b238371da5ebd521bf72fb2f54bf7e594fb73be7-5fa04f84f6a04ed919e558c1793dc4d4-1769590086-1769586486
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/starmovies.png" group-title="english",star movies
-https://edge2.roarzone.info:8444/roarzone/bk/starmovies/index.m3u8?token=c9b8f1346b1ade6c8f0585b09e227b077a0d6ef4-208d3d342312a7f5591c0cb11490696a-1769587581-1769583981
+https://edge2.roarzone.info:8444/roarzone/bk/starmovies/index.m3u8?token=a6aa127f7375efbbfce1f1f5490b8ae688260a2a-b97dc6a31b63534ca6302f5f5e5e3d43-1769590086-1769586486
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/86.png" group-title="bangla",movie bangla tv
-https://edge2.roarzone.info:8444/roarzone/bk/86/index.m3u8?token=51e451bfbe039659e46610b46ca8932540c352c1-08d889656d44e68cfd108ec8c9cdd1f7-1769587581-1769583981
-#EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+https://edge2.roarzone.info:8444/roarzone/bk/86/index.m3u8?token=f814a1f8d82c1b2551fa5495de6c55a2e54125f9-0b3adbb011c72752dd868e4690997870-1769590086-1769586486
 #EXTINF:-1 tvg-name="Kolkata Movies" group-title="Bangladeshi ",Kolkata Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi Movies",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
@@ -74,7 +74,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="South Movies" group-title="Hindi | 24/7",South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="CricHD 1",Sky Cinema
-https://d3.merichunidya.com:1686/hls/skysme.m3u8?md5=46jLJtEcRNUH287PXI-VyQ&expires=1769593677
+https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=6IddReNZI_uY1hY05Td8Rg&expires=1769596361
 #EXTINF:-1 tvg-id="ION_Plus" tvg-logo="https://img.platform.wurl.dev/channel/378/lg/165a68/LG-400x225_v1.png" group-title="TV & Movies",ION Plus
 https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSPLGUS/resized_f247b156f10d37926cc7720858479dada834b40f43da6f7d449e22b942a717c6_1193871landscapejpg_400_225.png" group-title="TV & Movies",MovieSphere
