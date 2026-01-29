@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="It's_Showtime_at_the_Apollo" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0N8GYBVA1HT7/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992283%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Entertainment",It's Showtime at the Apollo
+#EXTINF:-1 tvg-id="It's_Showtime_at_the_Apollo" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0VDMVTMQRIMU/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992283%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Entertainment",It's Showtime at the Apollo
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="Antiques_Roadshow" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/PBSDC/resized_83153b0f102061bcd092024822d0606677780d355f0400970f33bef4db2ee4f4_pbsantqrdshws21anr2120v16x9jpg_400_225.png" group-title="Entertainment",Antiques Roadshow
+#EXTINF:-1 tvg-id="Antiques_Roadshow" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/PBSDC/resized_014bd1f6f324f6db9b12c9238b0829aab8a693dda3fcc3356f9594194c2c6adf_pbsantqrdshws21anr2128v16x9jpg_400_225.png" group-title="Entertainment",Antiques Roadshow
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02333-pbsdistribution-antiquesroadshow-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Johnny_Carson_TV" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/JHCRN/resized_7aa81f8f53a073e9a320227d1b5f353099f18c000015488f701e0eaedd47c95b_thejohnnycarsonshowthebestofgeorgecarlin1920x1080jpg_400_225.png" group-title="Comedy",Johnny Carson TV
+#EXTINF:-1 tvg-id="Johnny_Carson_TV" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/JHCRN/resized_7ffa8f5235b956bebb2043c8b208e2a06f216cd7a96d573c26ba7318a946e390_thejohnnycarsonshowanimalantics1920x1080jpg_400_225.png" group-title="Comedy",Johnny Carson TV
 https://amg00163-shoutfactoryfast-amg00163c2-lg-us-860.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-johnnycarsontv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Buzzr" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/BUZZR/resized_856d947e4190e6c7cda48ec6c973bffb98f3c41598cb50d4e4ebfb67fe145e3a_buzzrlogopng_400_225.png" group-title="Game Shows",Buzzr
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
@@ -11,9 +11,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/pl
 https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-thepriceisright-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Game_Show_Central" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/416-LG-400x225_v1.png" group-title="Game Shows",Game Show Central
 https://wurlgameshownetwork.global.transmit.live/hls/68d174d50531b397b61a7797/v1/gsn_gameshowchannnel_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Deal_or_No_Deal" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/DORNODLGUS/resized_6cdd6b1d2c79870068c39440ef3289c4b5984444a0dee8ee55691bd2d3323dc5_dealornodealuss01e1216x9dealornodeals01e12png_400_225.png" group-title="Game Shows",Deal or No Deal
+#EXTINF:-1 tvg-id="Deal_or_No_Deal" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/DORNODLGUS/resized_c109816d8e2ce910db9c40e9b9a99c45b01eaa08878cddf98dc57390dfaef63e_dealornodealukseason12977814jpg_400_225.png" group-title="Game Shows",Deal or No Deal
 https://banijay-dealornodeal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-dealornodeal-lg-us/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Wipeout_Xtra" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/WIPOXT/resized_6d7564935b3cb96a08f62d1a56ea695574d1d1fbc26df807edd3adb2b2ab4a29_totalwipeoutuks03e10final10png_400_225.png" group-title="Game Shows",Wipeout Xtra
+#EXTINF:-1 tvg-id="Wipeout_Xtra" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/WIPOXT/resized_8413d9e910868f7848a2a0d0b061d2bd3812b58e29cd62a52bb259e6b40ed0c8_totalwipeoutuks05e055jpg_400_225.png" group-title="Game Shows",Wipeout Xtra
 https://banijay-wipeoutxtra-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-wipeoutxtra-lg-us/CDN/master.m3u8
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_037/lg_channels/img/channel_logo/default/channel_logo.png" group-title="LGTV AU",464 Show Champion
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=showchampion&channel_id=newid_037&mpf=7bf6bba6-39af1962-0b8a006e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=623487d6-3e406f00-4f9a3003-4930f5ac&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
@@ -299,12 +299,12 @@ https://jmp2.uk/stvp-AT3400004QH
 https://jmp2.uk/stvp-CABD1700001QB
 #EXTINF:-1 channel-id="CABD1200005AV" tvg-id="CABD1200005AV" tvg-chno="2044" tvg-name="Antiques Roadshow" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200005AV_20250729T185023SQUARE.png" group-title="Home & Food",Antiques Roadshow
 https://jmp2.uk/stvp-CABD1200005AV
+#EXTINF:-1 channel-id="CABB2500023RK" tvg-id="CABB2500023RK" tvg-chno="1003" tvg-name="Deal or No Deal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500023RK_20260127T205453SQUARE.png" group-title="Game Shows",Deal or No Deal
+https://jmp2.uk/stvp-CABB2500023RK
 #EXTINF:-1 channel-id="CA700004T7" tvg-id="CA700004T7" tvg-chno="2803" tvg-name="Let's Make A Deal Classic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA700004T7_20260112T181650SQUARE.png" group-title="Game Shows",Let's Make A Deal Classic
 https://jmp2.uk/stvp-CA700004T7
 #EXTINF:-1 channel-id="CABC2300021DQ" tvg-id="CABC2300021DQ" tvg-chno="2825" tvg-name="Supermarket Sweep" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300021DQ_20250805T010245SQUARE.png" group-title="Game Shows",Supermarket Sweep
 https://jmp2.uk/stvp-CABC2300021DQ
-#EXTINF:-1 channel-id="CABB2500023RK" tvg-id="CABB2500023RK" tvg-chno="2830" tvg-name="Deal or No Deal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500023RK_20250729T185126SQUARE.png" group-title="Game Shows",Deal or No Deal
-https://jmp2.uk/stvp-CABB2500023RK
 #EXTINF:-1 channel-id="CH340000286" tvg-id="CH340000286" tvg-chno="4255" tvg-name="Comedy & Shows" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH340000286_20251013T053903SQUARE.png" group-title="Serien",Comedy & Shows
 https://jmp2.uk/stvp-CH340000286
 #EXTINF:-1 channel-id="DE40000191" tvg-id="DE40000191" tvg-chno="4136" tvg-name="The Graham Norton Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE40000191_20250107T024744SQUARE.png" group-title="Entertainment",The Graham Norton Show
@@ -365,6 +365,8 @@ https://ott.udptv.xyz/stream/skyde/skyshowcase/master.m3u8?u=cocked&p=dd0abb5272
 https://ott.udptv.net/stream/iptv/skyshowtime1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="sky SHOWTIME 2" tvg-id="iptv/skyshowtime2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/sky-showtime-2-no.png" group-title="UDPTV Live Streams",sky SHOWTIME 2
 https://ott.udptv.net/stream/iptv/skyshowtime2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1  tvg-name="Showtime Next" tvg-id="udptvus/showtimenext" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="UDPTV Live Streams",Showtime Next
+https://ott.udptv.x
 #EXTINF:-1 channel-id="samsung-CABD1700001QB" tvg-id="CABD1700001QB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700001QB_20250729T010338SQUARE.png" group-title="samsung" tvg-chno="2041",PBS Antiques Roadshow
 https://jmp2.uk/sam-CABD1700001QB.m3u8
 #EXTINF:-1 channel-id="samsung-USBD4200017GS" tvg-id="USBD4200017GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200017GS_20240520T221538SQUARE.png" group-title="samsung" tvg-chno="2041",PBS Antiques Roadshow
