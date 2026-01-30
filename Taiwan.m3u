@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TVBS.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVBS Asia HD
+https://mh-bks400-03.starhubgo.com:443/bpk-token/1ac@vu4b445u0hy15p2djv2tq3d23hevpqx5vuxdrpda/bpk-tv/TVBSAsia/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/international/tvbsasia.jpg?raw=true" group-title="hilaytv",TVBS ASIA
 https://atemeshield1-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd

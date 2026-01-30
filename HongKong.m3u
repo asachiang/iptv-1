@@ -39,6 +39,10 @@ https://jmp2.uk/stvp-USAJ26000015Y
 https://jmp2.uk/stvp-USAJ22000130U
 #EXTINF:-1 channel-id="USAJ2200009C2" tvg-id="USAJ2200009C2" tvg-chno="2118" tvg-name="Hungry" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200009C2_20251209T230204SQUARE.png" group-title="Home & Food",Hungry
 https://jmp2.uk/stvp-USAJ2200009C2
+#EXTINF:-1 tvg-id="TVB.Jade.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Jade HD
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/1ab@p2eqf3uxtawut2szringbjal0zdhbmjhpcesmfaa/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVB.Xing.He.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Xing He HD
+https://bks05.starhubgo.com:443/bpk-token/1aa@vkmvevdmrvsu4emkdiztmykjkpvclfj3v0ie4lda/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
 #EXTINF:-1 channel-id="8339" tvg-id="8339" tvg-chno="127" tvg-name="Dark Screen" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2026/01/06/1767735541LDEvxBVh0G-632x395-DiTvbRSD.png" group-title="Other",Dark Screen
 https://jmp2.uk/str-8339.m3u8
 #EXTINF:-1 channel-id="6581" tvg-id="6581" tvg-chno="503" tvg-name="5-Minute Crafts" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737755649zG7KSo4xYG-632x395-RJ2EhbuI.png" group-title="Other",5-Minute Crafts
