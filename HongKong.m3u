@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Akash Go",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="Comedy_Dynamics" tvg-logo="https://images.frequency.com/video/5goj2jhj9i8z1lh7s1eejt04w/w1920_h1080/5goj2jhj9i8z1lh7s1eejt04w.jpg?width=400&height=225" group-title="Comedy",Comedy Dynamics
+https://linear-903.frequency.stream/dist/lg-us/903/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-65621947b7d737841f30a4f7-us" tvg-id="5e20b730f2f8d5003d739db7-65621947b7d737841f30a4f7" tvg-chno="" tvg-name="TVB Pearl Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bbaed7c4-c113-49e9-900b-aa96efdc8a8a/TVB_Pearl_Horizontal__White__-_Angus_Yip.png" group-title="United States",TVB Pearl Drama
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65621947b7d737841f30a4f7.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-65621947b7d737841f30a4f7-ca" tvg-id="647f8d22a2fc3fadb4721685-65621947b7d737841f30a4f7" tvg-chno="" tvg-name="TVB Pearl Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bbaed7c4-c113-49e9-900b-aa96efdc8a8a/TVB_Pearl_Horizontal__White__-_Angus_Yip.png" group-title="Canada",TVB Pearl Drama
@@ -38,9 +40,9 @@ https://jmp2.uk/stvp-USAJ22000130U
 #EXTINF:-1 channel-id="USAJ2200009C2" tvg-id="USAJ2200009C2" tvg-chno="2118" tvg-name="Hungry" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200009C2_20251209T230204SQUARE.png" group-title="Home & Food",Hungry
 https://jmp2.uk/stvp-USAJ2200009C2
 #EXTINF:-1 tvg-id="TVB.Jade.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Jade HD
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/1ab@0oq2w0e2bs1ktuqbrupmeaznvrwdexvg0qq45caa/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/1ac@jcfxkq1ou2kb40ucqg1l3kova5sizvc2jgb3r5da/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="TVB.Xing.He.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Xing He HD
-https://bks05.starhubgo.com:443/bpk-token/1aa@hnianp4ebbu3z1dopjfxdqa042jdci1th3mrxrca/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/1ac@iled2l5irmqpnzwc03wjpigyx40cza50ils021da/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
 #EXTINF:-1 channel-id="8339" tvg-id="8339" tvg-chno="127" tvg-name="Dark Screen" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2026/01/06/1767735541LDEvxBVh0G-632x395-DiTvbRSD.png" group-title="Other",Dark Screen
 https://jmp2.uk/str-8339.m3u8
 #EXTINF:-1 channel-id="6581" tvg-id="6581" tvg-chno="503" tvg-name="5-Minute Crafts" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/24/1737755649zG7KSo4xYG-632x395-RJ2EhbuI.png" group-title="Other",5-Minute Crafts
