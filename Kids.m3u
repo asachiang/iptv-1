@@ -52,23 +52,25 @@ https://fifabangladesh.site/?id=4cb37b51-8326-48ef-9daf-689f7ff75e92
 #EXTINF:-1 tvg-id="1486a1c3-9efe-48f7-8c7a-fe61a939d60a" tvg-logo="https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6" group-title="Kids",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/79.png" group-title="kids",cartoon network
-https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=8b105aadf2249c64f20b988170268aeafadc22dc-e2c5110615a5e56f700f8d6cb9744b8d-1769894210-1769890610
+https://edge2.roarzone.info:8444/roarzone/bk/79/index.m3u8?token=cef901485c99628a6d52600ee647aec2a69bab7b-7b0973aa68569e2840528fcaa19fd7c1-1769895831-1769892231
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/55.png" group-title="kids",nick
-https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=a07ea3a4ebcf09c3da0b0e0dfedcf0b63ebfd376-c83b3548756e422bb898bb1ddb2d4c8b-1769894210-1769890610
+https://edge2.roarzone.info:8444/roarzone/bk/55/index.m3u8?token=7fbe76d63cd56c4708fec89c10920371166e927a-3185fe4897b3729605c2598f935f1c50-1769895831-1769892231
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/pogo.png" group-title="kids",pogo
-https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=2a48e073d46c45c67388efce3632c5d88738d65e-ef8b446d70087b293942be51e6c83149-1769894210-1769890610
+https://edge2.roarzone.info:8444/roarzone/toffee/pogo_sd/index.m3u8?token=3192a045a29312904e66a6466990af34c3219a23-eaa0f02d49e10cbda55f26054a7fb45c-1769895831-1769892231
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoverykids.png" group-title="kids",discovery kids
-https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=5f4b51a7743df995d02fe07222b33780e8b6e1df-40312679e0f31cfc8579c5300629ec79-1769894210-1769890610
+https://edge2.roarzone.info:8444/roarzone/toffee/discovery_kids/index.m3u8?token=54820587b4823fffa8d601430c9a8a1c848fb677-5c461de67b94d6d8850d7914b8d3229d-1769895831-1769892231
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonyyay.png" group-title="kids",sony yay
-https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=72864c287e0251231d0e434629c222d146a4e888-53a9ea9d0852025ed71f5c7875350c81-1769894210-1769890610
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+https://edge2.roarzone.info:8444/roarzone/toffee/sonyyay/index.m3u8?token=e559d4e35ff8b3ad5088f2abfe1994088d58b524-cc7b007e572d92a575c10c80217a7201-1769895831-1769892231
 #EXTINF:-1 tvg-name="PBS Kids" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick" group-title="Kids",Nick
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ZB Cartoon" group-title="Kids",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-name="ZB Kartun" group-title="Kids",ZB Kartun
+https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Gopal Bhar" group-title="Kids",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Super_Simple_Songs" tvg-logo="https://img.platform.wurl.dev/channel/559/lg/d86b91/LG-400x225_v1.png" group-title="Kids",Super Simple Songs

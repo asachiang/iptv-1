@@ -48,13 +48,13 @@ https://tvsen6.aynascope.net/ZeeBanglaCinema/index.m3u8?e=1769886062&u=f908a6a4-
 #EXTINF:-1 tvg-id="25059629-bb42-48d2-bcbc-8aa5c14e7f85" tvg-logo="https://s3.aynaott.com/storage/f24e50516ccf6b3e94a4ca749ccb3533" group-title="Movie",Persiana Kore
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/76.png" group-title="hindi",zee cinema
-https://edge2.roarzone.info:8444/roarzone/bk/76/index.m3u8?token=b7d8157b3edc8fa3c44249762c44f3a2bb882443-c33a5ccd90779a39d230b7231c053727-1769894210-1769890610
+https://edge2.roarzone.info:8444/roarzone/bk/76/index.m3u8?token=2d7d8e07b8604623f20531258b3669c3e396ea8f-5a40c7d268f3754226ea79ba663bcb7b-1769895831-1769892231
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/b4umovies.png" group-title="hindi",b4u movies
-https://edge2.roarzone.info:8444/roarzone/toffee/b4u_movies/index.m3u8?token=445df84505161dfbb881facfb9ec76ee05a71028-eb6145ab4b19ebd91dc238048d10facc-1769894210-1769890610
+https://edge2.roarzone.info:8444/roarzone/toffee/b4u_movies/index.m3u8?token=91af007c8a5022604328bf3284dd5411cb2b1c60-747abe1e51af10fdeee1765f53eb5922-1769895831-1769892231
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/starmovies.png" group-title="english",star movies
-https://edge2.roarzone.info:8444/roarzone/bk/starmovies/index.m3u8?token=52b158b97a6648f3ed914ac485e0a4c1de14aaee-c177258d5210e966cf5598e3784d1363-1769894210-1769890610
+https://edge2.roarzone.info:8444/roarzone/bk/starmovies/index.m3u8?token=e99f818f4da07e4cef16f9cc81408c66bdf67ffa-f0a71f5f94fa33fe714776c963cf3b5d-1769895831-1769892231
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/86.png" group-title="bangla",movie bangla tv
-https://edge2.roarzone.info:8444/roarzone/bk/86/index.m3u8?token=9e49e67940436ea931da1de25bb1f5236c805f4d-366ced3705546e29b4a76075011ac595-1769894210-1769890610
+https://edge2.roarzone.info:8444/roarzone/bk/86/index.m3u8?token=37c33f1774e8ee13661f98ef50a6b9529cee480c-4d2c82dd46473f02e0d23d4b798ca9aa-1769895831-1769892231
 #EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 tvg-name="Kolkata Movies" group-title="Bangladeshi ",Kolkata Movies
@@ -71,26 +71,26 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-name="Movies Thriller" group-title="Unknown",Movies Thriller
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-name="My Cinema" group-title="English Movie",My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
 #EXTINF:-1 tvg-name="KIX" group-title="English Movie",KIX
 http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 tvg-name="ZB Cinema" group-title="Indian-Bangla",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="BhojpuriCinema" group-title="India",BhojpuriCinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi | 24/7",Hindi Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="South Movies" group-title="Hindi | 24/7",South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi | 24/7",Hindi Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="CricHD 1",Sky Cinema
-https://d5.merichunidya.com:1686/hls/skysme.m3u8?md5=pFbP-Di7qO-aQK8rRxmBbw&expires=1769899762
+https://d3.merichunidya.com:1686/hls/skysme.m3u8?md5=rNHdWsLP-K2HIvgVyUhvrA&expires=1769903102
 #EXTINF:-1 tvg-id="ION_Plus" tvg-logo="https://img.platform.wurl.dev/channel/378/lg/165a68/LG-400x225_v1.png" group-title="TV & Movies",ION Plus
 https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSPLGUS/resized_342a2ca8ab23028a338b0e6e491651dde6e9622d6a43fd7fee7283ac4d7f57bb_2920007landscapejpg_400_225.png" group-title="TV & Movies",MovieSphere
@@ -212,7 +212,7 @@ https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East
 https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies Mysteries East
-https://fl
+https://fl1.moveonjoy.com/HALLMARK_MOVIE
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d-us" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-chno="" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="United States",24 Hour Free Movies
@@ -1101,6 +1101,8 @@ http://cord-cutter.net:8080/95549031/69361122/53699
 http://cord-cutter.net:8080/95549031/69361122/35256
 #EXTINF:-1 tvg-id="MoviesAction.sa" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="hilaytv",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="hilaytv",Movies Thriller (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1  tvg-name="17 Again (2009)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2NTI1Mzg3N15BMl5BanBnXkFtZTcwMjYwNjAzMg@@._V1_FMjpg_UX1000_.jpg" group-title="hilaytv" radio="false",17 Again (2009)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/17.Again.2009.1080p.BrRip.x264.YIFY.mp4
 #EXTINF:-1  tvg-name="2 Fast 2 Furious (2003)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQzYzEwNWMtOTAwYy00YWYwLWE1NTEtZTkxOGQxZTM0M2VhXkEyXkFqcGc@._V1_.jpg" group-title="hilaytv" radio="false",2 Fast 2 Furious (2003)
