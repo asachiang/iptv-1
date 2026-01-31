@@ -8,7 +8,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp",[BD] B4U Movies APAC
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 #EXTINF:-1 tvg-id="d80aa15f-6487-40de-9bf7-04dd8203d5f4" tvg-logo="https://s3.aynaott.com/storage/a535fd3aae1f5dc79e9afa561cf28983" group-title="Channels",Movie Bangla
-https://tvsen7.aynascope.net/moviebangla/index.m3u8?e=1769873480&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=8f05615f3d93c6d9e7796336174ca291
+https://tvsen7.aynascope.net/moviebangla/index.m3u8?e=1769877092&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=99596d1b140cfea63a725764a7017215
 #EXTINF:-1 tvg-id="307777ec-0dd3-4e09-9835-5fe3844054dd" tvg-logo="https://s3.aynaott.com/storage/a23f256ae7f1322fc7a6ab663410064b" group-title="Channels",Hallmark Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
 #EXTINF:-1 tvg-id="316a5d94-a40c-4953-8d7f-73fd6ca8bfa4" tvg-logo="https://s3.aynaott.com/storage/cc27c2c28dc21f1b42ac7179796ebb0a" group-title="Channels",Movie Favorites By Lifetime
@@ -26,41 +26,41 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="fe98def1-6f32-4ff5-83df-ddc1531e7016" tvg-logo="https://s3.aynaott.com/storage/cb1ab052f5b733bbf600a7a8e3a1164b" group-title="Channels",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="1426f66b-7413-4bab-91a9-af2ac5c15474" tvg-logo="https://s3.aynaott.com/storage/a6d7d9729aafd5055bfd5356b6fa8eef" group-title="English",SKY CINEMA ANIMATION
-https://tvsen7.aynascope.net/skycinemanimation/index.m3u8?e=1769873459&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=40ee482e0da5b6bcf6d86c8e88b151ae
+https://tvsen7.aynascope.net/skycinemanimation/index.m3u8?e=1769877075&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=408eeda7d7c1ee9a79d47ff0f4552539
 #EXTINF:-1 tvg-id="f1acb290-c4c1-4010-8226-3f88b203c79c" tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="English",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="47b010b6-9296-4e7f-9cfa-284e020a8984" tvg-logo="https://s3.aynaott.com/storage/5088d0894a79b329031d5f4669bbb0fe" group-title="Hindi",B4U Movies India
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-logo="https://s3.aynaott.com/storage/f8d9220406fa9ae79006914639f52e9b" group-title="Hindi",Goldmines Movies
-https://tvsen6.aynascope.net/GoldminesMovies/index.m3u8?e=1769873444&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=4a3afc476f547a121b8791b03ed0751f
+https://tvsen6.aynascope.net/GoldminesMovies/index.m3u8?e=1769877058&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=8e025c325c0f6031d7cea6efa1c44d17
 #EXTINF:-1 tvg-id="631ca0d6-474b-41ad-9ffc-24adc9931731" tvg-logo="https://s3.aynaott.com/storage/62a667c60e95b0d8e0a0c4d70275a7fc" group-title="Hindi",Manoranjan Movies
-https://tvsen6.aynascope.net/ManoranjanMovies/index.m3u8?e=1769873446&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=71b7e838cd7b59c6ebe14c1233f4be55
+https://tvsen6.aynascope.net/ManoranjanMovies/index.m3u8?e=1769877061&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=926d8b91eebea555c7432c993099698a
 #EXTINF:-1 tvg-id="3c57401b-76ef-486e-8c7b-b3eff2f3e0e6" tvg-logo="https://s3.aynaott.com/storage/0812a2b26b02dbe7b39e9dd61bd14d8d" group-title="Hindi",Movie Today
 https://fifabangladesh.site/?id=3c57401b-76ef-486e-8c7b-b3eff2f3e0e6
 #EXTINF:-1 tvg-id="cca69f06-02d4-4b39-aad9-f24688b81d0d" tvg-logo="https://s3.aynaott.com/storage/d63eff8864579b144c097c549ec0470a" group-title="Hindi",Dhamaka Movies
-https://tvsen7.aynascope.net/DhamakaMovies/index.m3u8?e=1769873449&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=be0255314c4e42e30d536d238d56b8cf
+https://tvsen7.aynascope.net/DhamakaMovies/index.m3u8?e=1769877063&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=680ee7e149acfee286369da49964271c
 #EXTINF:-1 tvg-id="82e2a77e-38f9-438b-80de-da3aa7e5cf61" tvg-logo="https://s3.aynaott.com/storage/e1208722b5fa731872536173c3636c06" group-title="Hindi",Zee Cinema
 https://fifabangladesh.site/?id=82e2a77e-38f9-438b-80de-da3aa7e5cf61
 #EXTINF:-1 tvg-id="4d5c3f29-c835-4920-8fa0-c0bafeaa31ed" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Hindi",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-id="ff14d64f-0fcb-45af-8313-9ae3ff788052" tvg-logo="https://s3.aynaott.com/storage/7fc825467116fd9653dc0495c0532e01" group-title="Indian Bangla",Zee Bangla Cinema
-https://tvsen6.aynascope.net/ZeeBanglaCinema/index.m3u8?e=1769873474&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=b7128984f807e4c8f47b8511463d0eea
+https://tvsen6.aynascope.net/ZeeBanglaCinema/index.m3u8?e=1769877086&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=80aa892867ad508243e3eefed2ec2565
 #EXTINF:-1 tvg-id="25059629-bb42-48d2-bcbc-8aa5c14e7f85" tvg-logo="https://s3.aynaott.com/storage/f24e50516ccf6b3e94a4ca749ccb3533" group-title="Movie",Persiana Kore
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/76.png" group-title="hindi",zee cinema
-https://edge2.roarzone.info:8444/roarzone/bk/76/index.m3u8?token=8953965e86ac769499b9b915ea0a90e93f48d949-bedbbcdf962402e53b722f267e2078c4-1769869479-1769865879
+https://edge2.roarzone.info:8444/roarzone/bk/76/index.m3u8?token=eed0e65887ab67cde84fd94bca357b1316147c9a-eba5662980bfed15c5e98fddfc2c8c4c-1769874930-1769871330
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/b4umovies.png" group-title="hindi",b4u movies
-https://edge2.roarzone.info:8444/roarzone/toffee/b4u_movies/index.m3u8?token=7fcf93cda9e25efe9c29968355068cdbff680263-25cddfd0dd77abb8ca9b46b2867cfa53-1769869479-1769865879
+https://edge2.roarzone.info:8444/roarzone/toffee/b4u_movies/index.m3u8?token=316da91428a6165ed0ac0721aefc1ff2ab345a48-18683848917b7a8eec38fb6c3bcec831-1769874930-1769871330
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/starmovies.png" group-title="english",star movies
-https://edge2.roarzone.info:8444/roarzone/bk/starmovies/index.m3u8?token=fd442a322f87ec178bcddbdd19c692f26c418c57-d16e6d5b80881d406f6cd7727485cdfe-1769869479-1769865879
+https://edge2.roarzone.info:8444/roarzone/bk/starmovies/index.m3u8?token=7237b96e15a8bbe03e4eeaa390747484568f8894-e6cca139b32a73464284330667092326-1769874930-1769871330
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/86.png" group-title="bangla",movie bangla tv
-https://edge2.roarzone.info:8444/roarzone/bk/86/index.m3u8?token=f4c4965c4ec974eafb520d2ddf728687ee6487eb-fd4004d076827f08f013678e01c53a0b-1769869479-1769865879
+https://edge2.roarzone.info:8444/roarzone/bk/86/index.m3u8?token=dec6a656531746d159e427f0894f2e022e89aa4d-3b237eb91be417b8da42e3e4defc4249-1769874930-1769871330
 #EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-name="Kolkata Movies" group-title="Bangladeshi ",Kolkata Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-name="Bollywood Movies" group-title="Bangladeshi ",Bollywood Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi Movies",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
@@ -69,20 +69,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
 #EXTINF:-1 tvg-name="Movies Thriller" group-title="Unknown",Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 tvg-name="My Cinema" group-title="English Movie",My Cinema
-https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="KIX" group-title="English Movie",KIX
 http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-name="My Cinema" group-title="English Movie",My Cinema
+https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="BhojpuriCinema" group-title="India",BhojpuriCinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="South Movies" group-title="Hindi | 24/7",South Movies
@@ -90,7 +90,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi | 24/7",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="CricHD 1",Sky Cinema
-https://d8.merichunidya.com:1686/hls/skysme.m3u8?md5=h2Lkedu8_80xoSl_T0XX-A&expires=1769878223
+https://d5.merichunidya.com:1686/hls/skysme.m3u8?md5=AjqDK7BOPI9KIbL_Z72PpQ&expires=1769881636
 #EXTINF:-1 tvg-id="ION_Plus" tvg-logo="https://img.platform.wurl.dev/channel/378/lg/165a68/LG-400x225_v1.png" group-title="TV & Movies",ION Plus
 https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/MOVSPLGUS/resized_342a2ca8ab23028a338b0e6e491651dde6e9622d6a43fd7fee7283ac4d7f57bb_2920007landscapejpg_400_225.png" group-title="TV & Movies",MovieSphere
@@ -726,27 +726,27 @@ https://jmp2.uk/stvp-US8000024G
 #EXTINF:-1 channel-id="US4700003DP" tvg-id="US4700003DP" tvg-chno="4460" tvg-name="Stingray Movie Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700003DP_20250121T101210SQUARE.png" group-title="Music",Stingray Movie Music
 https://jmp2.uk/stvp-US4700003DP
 #EXTINF:-1 tvg-id="Asianet.Movies.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Asianet Movies
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/1ab@pjzxvefaf5wsu41geoxglsplj0lk4nfjpxzv22ba/bpk-tv/AsianetMov/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/1aa@lutjwy5wogzc54bydnzprhtmr5d3msf4l4ibzoaa/bpk-tv/AsianetMov/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Zee.Cinema.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/130_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Zee Cinema
-https://bks06.starhubgo.com:443/bpk-token/1aa@lybfnjbghuufv0csstrojdk0sscoijlklifnc5ca/bpk-tv/ZeeCinema/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/1ab@3r5dhz5b4p2e5p4wwvzd05hos5p25yj43fz0upaa/bpk-tv/ZeeCinema/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CCM.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png" group-title="HUB MOVIES",CCM
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/1ab@roafqw05bua0kik1cno1eakannudibuvrqahzoca/bpk-tv/CCM/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/1ac@vxaa1tk1camp0rwpx1mtwbawh33fay4uvteka2ca/bpk-tv/CCM/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Celestial.Movies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="HUB MOVIES",Celestial Movies HD
-https://sh-bks400-08.starhubgo.com:443/bpk-token/1aa@fzzlrbichpfgqmfxv3fsltxcdiio4kmaftcd4xda/bpk-tv/CelestialMoviesHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/1ab@5gutiyq3qocbttlkocjguihrqrxb3ecg5upvhoda/bpk-tv/CelestialMoviesHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Cinema.One.Global.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png" group-title="HUB MOVIES",Cinema One Global
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/1ab@1hsq3kbzicwlv5efylqoweb1vs4remxk1vjws2ca/bpk-tv/CinemaOne/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/1ac@bn2hdxqsr5m2ckvouxo0dypgojjd5zyfbtd4dhaa/bpk-tv/CinemaOne/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CINEMAX.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" group-title="HUB MOVIES",Cinemax HD
-https://mh-bks400-03.starhubgo.com:443/bpk-token/1ac@3j5wpava314buvad1cvck4n5aco0x3di3jwuarba/bpk-tv/CinemaxHD/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/1ac@0sdxgb1no20emnzamvvn2honc4x2yvjy0skvjqda/bpk-tv/CinemaxHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HBO.Family.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Family HD
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/1ab@eviwwvzscz0wghljl45qtrmnldjfsvnne3eqzdca/bpk-tv/HBOFamilyHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/1ab@bxgaya500aadmebshkv1xnaqbgyvbagybj0lvyda/bpk-tv/HBOFamilyHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HBO.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" group-title="HUB MOVIES",HBO HD
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/1ab@np5zfx2y3hx2cqys2xoch4tloj11pozfnr51mpaa/bpk-tv/HBOHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/1aa@yx5chfju4l2ue2o4wvxiw5fokk43xyjjyh1kitca/bpk-tv/HBOHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HBO.Hits.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Hits HD
-https://mh-bks400-03.starhubgo.com:443/bpk-token/1ac@kx3lizd0wpbfpwhtfrznx1xqs51n5ck4kxujhida/bpk-tv/HBOHitsHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/1aa@bpxyr0av3chktei01oi0hordvby1fougb5tq4mda/bpk-tv/HBOHitsHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HBO.Signature.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Signature HD
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/1ab@sjr0q3zafkdwxv3gn312kcvb1tmkugmpsb325lca/bpk-tv/HBOSignatureHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/1ab@fmdqiwgwnaczka2tpcotbgarmfb1aesvf4ywhaba/bpk-tv/HBOSignatureHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HITS.Movies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/512_1920x1080_HTV.png" group-title="HUB MOVIES",HITS MOVIES HD
-https://sh-bks400-08.starhubgo.com:443/bpk-token/1aa@h2hobna55yfub3inxvdwbp2c0ya5rlidhw2go1da/bpk-tv/HitsMoviesHD/output/manifest.mpd?bkm-query
+https://bks03.starhubgo.com:443/bpk-token/1aa@kg2oju04q1frk5x2qcpnvy3sifsbxlcvkgqggcba/bpk-tv/HitsMoviesHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 channel-id="5745" tvg-id="5745" tvg-chno="645" tvg-name="Cowboy Movie Channel" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614492V41m7Es0qF-632x395-XDAKvIe3.jpeg" group-title="Entertainment Live",Cowboy Movie Channel
 https://jmp2.uk/str-5745.m3u8
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed SD" group-title="Live",Cinemax Eastern Feed SD
